@@ -4,25 +4,27 @@
   "language": "fil_PH", 
   "title": "Ika-anim na buwan", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-02-11T11:57:13.032569+00:00", 
+  "created_at": "2015-02-11T11:57:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-11T11:57:13.032888+00:00", 
+  "modified_at": "2015-02-11T12:36:09.044558+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f5656f06c7ef49a5847afb1f4222d98c"
+  ], 
   "id": null, 
-  "content": "cre\r\n\r\nHanda na ang iyong anak na magsimulang kumain ng solid food kasabay ng gatas na mula sa iyo. Sa una, kaunti pa lamang na solid food ang kaya niyang kainin -- isang kutsara lang muna. Magugustuhan niyang kumain ng dinurog na solid food. Humarap sa kanya habang siya ay iyong sinusubuan gamit ang iyong malinis na daliri o maliit na kutsara. Sa una ay hindi pa niya alam kung anong gagawin sa pagkain. Maging matiyaga sa pagpapakain sa kanya. Matututunan niya ring dilaan ang pagkain at lunukin ito.\r\n\r\nSa mga unang araw, bigyan mo siya ng dinurog na solid food isang beses sa isang araw. Habang tumatagal, dalasan mo ito sa dalawang beses, hanggang sa tatlong beses kada araw. Maaaring nais niyang sumuso bago at pagkatapos kumain ng solid food.\r\n\r\nSa buwang ito maaaring lumabas ang unang ngipin ng iyong anak. Kadalasan, ang ngipin sa harap sa babang gilagid ang unang lumalabas.\r\n\r\nMaaari mong mapansin kung alin ang kamay na mas madalas niyang gamitin. Maaari pa itong magbago sa kalaunan. Sa edad na dalawa o tatlong taon mo pa malalaman kung aling kamay talaga ang mas gusto niyang gamitin. Bigyan mo siya ng isang laruan o bagay at hayaang paglaruan niya ito gamit ang kanyang mga kamay. Makakatulong ito sa pag-develop ng kanyang kakayahan.\r\n\r\nSa edad na ito, magiging mas aktibo ang iyong anak at ikatutuwa niyang makipaglaro sa ibang sanggol na gaya niya!\r\n\r\nNapapansin mo bang may paborito siyang laruan o bagay? Maaaring ugaliin niya itong hanapin at dalhin saan man siya magpunta. Normal lamang ito at senyales na sinusubukan niyang maging independent. Kung noon ay kailangan ka niya sa lahat ng oras, ang paborito niyang laruan o bagay ay nakakapagpakalma sa kanya.\r\n", 
+  "content": "Nilikha ng BabyCenter\r\n\r\nHanda na ang iyong anak na magsimulang kumain ng solid food kasabay ng gatas na mula sa iyo. Sa una, kaunti pa lamang na solid food ang kaya niyang kainin -- isang kutsara lang muna. Magugustuhan niyang kumain ng dinurog na solid food. Humarap sa kanya habang siya ay iyong sinusubuan gamit ang iyong malinis na daliri o maliit na kutsara. Sa una ay hindi pa niya alam kung anong gagawin sa pagkain. Maging matiyaga sa pagpapakain sa kanya. Matututunan niya ring dilaan ang pagkain at lunukin ito.\r\n\r\nSa mga unang araw, bigyan mo siya ng dinurog na solid food isang beses sa isang araw. Habang tumatagal, dalasan mo ito sa dalawang beses, hanggang sa tatlong beses kada araw. Maaaring nais niyang sumuso bago at pagkatapos kumain ng solid food.\r\n\r\nSa buwang ito maaaring lumabas ang unang ngipin ng iyong anak. Kadalasan, ang ngipin sa harap sa babang gilagid ang unang lumalabas.\r\n\r\nMaaari mong mapansin kung alin ang kamay na mas madalas niyang gamitin. Maaari pa itong magbago sa kalaunan. Sa edad na dalawa o tatlong taon mo pa malalaman kung aling kamay talaga ang mas gusto niyang gamitin. Bigyan mo siya ng isang laruan o bagay at hayaang paglaruan niya ito gamit ang kanyang mga kamay. Makakatulong ito sa pag-develop ng kanyang kakayahan.\r\n\r\nSa edad na ito, magiging mas aktibo ang iyong anak at ikatutuwa niyang makipaglaro sa ibang sanggol na gaya niya!\r\n\r\nNapapansin mo bang may paborito siyang laruan o bagay? Maaaring ugaliin niya itong hanapin at dalhin saan man siya magpunta. Normal lamang ito at senyales na sinusubukan niyang maging independent. Kung noon ay kailangan ka niya sa lahat ng oras, ang paborito niyang laruan o bagay ay nakakapagpakalma sa kanya.\r\n", 
   "source": "824b8312c88c441e8aa3ae0ed81015cb", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "6monthold_fil_baby", 
   "uuid": "e91acef4f8804643a3f880e388a5fd62"
