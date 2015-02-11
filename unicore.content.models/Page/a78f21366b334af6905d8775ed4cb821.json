@@ -1,28 +1,30 @@
 {
   "subtitle": "your new baby fil PH baby", 
   "description": "", 
-  "language": "fil_PH", 
+  "language": "FIL_PH", 
   "title": "Ang Iyong Bagong Silang na Sanggol", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-02-11T11:44:50.661278+00:00", 
+  "created_at": "2015-02-11T11:44:50+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-11T11:44:50.661722+00:00", 
+  "modified_at": "2015-02-11T12:27:35.746954+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "14046199c49f4828b5475a2fa130a1d7"
+  ], 
   "id": null, 
-  "content": "cre\r\n\r\nPara sa iyong bagong silang na anak napakaingay ng mundong ito! Mapapansin mong pabigla-bigla ang kanyang mga kilos at galaw kapag siya ay nagugulat sa ingay. Sa kalaunan ay masasanay rin siya at mas magiging kalmado.\r\n\r\nMaaaring isipin mo na hindi sapat ang nakukuha niyang gatas mula sa iyo. Kung iyo siyang pinapasuso kada dalawa hanggang tatlong oras, o umaabot sa walong beses sa isang araw, sapat na ito para sa kanyang mga pangangailangan. Ang kulay ng kanyang dumi ay isang mainam na indikasyon nito. Sa una ay maitim ito at magiging madilaw sa ika-apat na araw.\r\n\r\nSa edad na dalawang linggo, maigi na ang kanyang pagsupsop, paghawak, pagkurap, at paghahanap ng iyong suso. Minsan makikita mong nakatingin siya ng direkta sa iyong mga mata. Titigan mo rin siya, ngitian, at tumango sa kanya. Mabilis na siyang natututo!\r\n\r\nAbangan mo ang pag-angat ng kanyang ulo kapag siya ay nakadapa. Nakakatulong ito upang siya ay lalong lumakas. Maaari rin niyang ibaling ang kanyang ulo sa magkabilang gilid.\r\n\r\nKapag ang iyong sanggol ay halos isang buwan na, mawawala ang kanyang pagiging magugulatin. Patuloy siyang lumalakas at maraming natututunan sa kanyang bagong mundo. Magiging madalas ang pagtitig niya sa iyo.\r\n\r\nAng isang dapat abangan ay ang kanyang pakikipag usap sa iyo. Ugaliin mong kausapin rin sya maging sa mga panahon hindi mo siya hawak o kinakarga.\r\n", 
+  "content": "Nilikha ng BabyCenter\r\n\r\nPara sa iyong bagong silang na anak napakaingay ng mundong ito! Mapapansin mong pabigla-bigla ang kanyang mga kilos at galaw kapag siya ay nagugulat sa ingay. Sa kalaunan ay masasanay rin siya at mas magiging kalmado.\r\n\r\nMaaaring isipin mo na hindi sapat ang nakukuha niyang gatas mula sa iyo. Kung iyo siyang pinapasuso kada dalawa hanggang tatlong oras, o umaabot sa walong beses sa isang araw, sapat na ito para sa kanyang mga pangangailangan. Ang kulay ng kanyang dumi ay isang mainam na indikasyon nito. Sa una ay maitim ito at magiging madilaw sa ika-apat na araw.\r\n\r\nSa edad na dalawang linggo, maigi na ang kanyang pagsupsop, paghawak, pagkurap, at paghahanap ng iyong suso. Minsan makikita mong nakatingin siya ng direkta sa iyong mga mata. Titigan mo rin siya, ngitian, at tumango sa kanya. Mabilis na siyang natututo!\r\n\r\nAbangan mo ang pag-angat ng kanyang ulo kapag siya ay nakadapa. Nakakatulong ito upang siya ay lalong lumakas. Maaari rin niyang ibaling ang kanyang ulo sa magkabilang gilid.\r\n\r\nKapag ang iyong sanggol ay halos isang buwan na, mawawala ang kanyang pagiging magugulatin. Patuloy siyang lumalakas at maraming natututunan sa kanyang bagong mundo. Magiging madalas ang pagtitig niya sa iyo.\r\n\r\nAng isang dapat abangan ay ang kanyang pakikipag usap sa iyo. Ugaliin mong kausapin rin sya maging sa mga panahon hindi mo siya hawak o kinakarga.\r\n", 
   "source": "0ea4917e532c43b6b3bba4ba448c5b72", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your_new_baby_fil_PH_baby", 
   "uuid": "a78f21366b334af6905d8775ed4cb821"
