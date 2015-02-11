@@ -4,25 +4,27 @@
   "language": "fil_PH", 
   "title": "Ikalimang buwan", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-02-11T11:54:55.309021+00:00", 
+  "created_at": "2015-02-11T11:54:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-11T11:54:55.309344+00:00", 
+  "modified_at": "2015-02-11T12:35:50.902447+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "eff777d79b544801b25595e62d6111d6"
+  ], 
   "id": null, 
-  "content": "cre\r\n\r\nSa kanyang murang edad, hindi pa lubusang makakayanan ng iyong sanggol na ipaalam sa iyo ang lahat ng kanyang nararamdaman. Pero tiyak na ipapaalam niya sa iyo kapag siya ay galit, naiinis, o masaya. Ipaparamdam niya sa iyo ang kanyang pagmamahal sa pamamagitan ng pag-angat ng kanyang mga braso kung gusto niyang magpabuhat sa iyo. Maaari siyang umiyak kapag lumayo ka sa kanya o lumabas ng kwarto.\r\n\r\nNgayon ay lumalakas na siya. Subukan mo siyang iupo sa sahig at makikita mo na kaya na niyang umupong mag-isa ng ilang saglit. Palibutan mo siya ng mga unan at huwag mo siyang iwan sakaling siya ay matumba.\r\n\r\nMagugulat ka sa kanyang kakayahang biglang dumapa mula sa pagkatihaya o tumihaya mula sa pagkakadapa! Kaya naman hindi mo siya dapat iwan sa ibabaw ng kama o anumang mataas na lugar upang hindi siya mahulog. Pwede mo siyang palitan ng lampin o diaper habang siya ay nakahiga sa isang malinis na kumot sa sahig.\r\n\r\nPatuloy ang pag-develop ng kanyang paningin. Kaya na niyang makakita ng maliliit na bagay at sundan ang mga bagay na gumagalaw. Subukan mong bahagyang itago ang paborito nyang laruan. Siguradong matutuwa siyang hanapin ito!\r\nMaaaring kaya ka ng gayahin ng iyong sanggol. Subukan mo kung gagayahin ka nya kapag inilabas mo ang iyong dila, o pinalaki ang iyong pisngi.\r\nMas mainam na ang pandinig ng iyong anak ngayon. Pati na ang kakayahan niyang ipaalam sa iyo ang kanyang nais sabihin. Pakinggang maigi ang mga ingay na kanyang ginagawa. Maaari mong marinig na siya ay natutuwa kapag nagawa niya ang gusto niyang gawin.\r\n\r\nSa edad na ito, maaaring mag-umpisa siyang magsalita subalit hindi mo pa ito gaanong maiintindihan. Uulit-ulitin nyang bigkasin ang ilang mga tunog gaya ng \"ba,\" \"ma,\" o \"ga.\" Ito ay makakapagsabi sa iyong nalalapit na ang panahon na siya ay tunay ng makakapagsalita.\r\n", 
+  "content": "Nilikha ng BabyCenter\r\n\r\nSa kanyang murang edad, hindi pa lubusang makakayanan ng iyong sanggol na ipaalam sa iyo ang lahat ng kanyang nararamdaman. Pero tiyak na ipapaalam niya sa iyo kapag siya ay galit, naiinis, o masaya. Ipaparamdam niya sa iyo ang kanyang pagmamahal sa pamamagitan ng pag-angat ng kanyang mga braso kung gusto niyang magpabuhat sa iyo. Maaari siyang umiyak kapag lumayo ka sa kanya o lumabas ng kwarto.\r\n\r\nNgayon ay lumalakas na siya. Subukan mo siyang iupo sa sahig at makikita mo na kaya na niyang umupong mag-isa ng ilang saglit. Palibutan mo siya ng mga unan at huwag mo siyang iwan sakaling siya ay matumba.\r\n\r\nMagugulat ka sa kanyang kakayahang biglang dumapa mula sa pagkatihaya o tumihaya mula sa pagkakadapa! Kaya naman hindi mo siya dapat iwan sa ibabaw ng kama o anumang mataas na lugar upang hindi siya mahulog. Pwede mo siyang palitan ng lampin o diaper habang siya ay nakahiga sa isang malinis na kumot sa sahig.\r\n\r\nPatuloy ang pag-develop ng kanyang paningin. Kaya na niyang makakita ng maliliit na bagay at sundan ang mga bagay na gumagalaw. Subukan mong bahagyang itago ang paborito nyang laruan. Siguradong matutuwa siyang hanapin ito!\r\nMaaaring kaya ka ng gayahin ng iyong sanggol. Subukan mo kung gagayahin ka nya kapag inilabas mo ang iyong dila, o pinalaki ang iyong pisngi.\r\nMas mainam na ang pandinig ng iyong anak ngayon. Pati na ang kakayahan niyang ipaalam sa iyo ang kanyang nais sabihin. Pakinggang maigi ang mga ingay na kanyang ginagawa. Maaari mong marinig na siya ay natutuwa kapag nagawa niya ang gusto niyang gawin.\r\n\r\nSa edad na ito, maaaring mag-umpisa siyang magsalita subalit hindi mo pa ito gaanong maiintindihan. Uulit-ulitin nyang bigkasin ang ilang mga tunog gaya ng \"ba,\" \"ma,\" o \"ga.\" Ito ay makakapagsabi sa iyong nalalapit na ang panahon na siya ay tunay ng makakapagsalita.\r\n", 
   "source": "fb452b5081b3461faf35c88a7ca7ce72", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "5monthold_fil_baby", 
   "uuid": "f5656f06c7ef49a5847afb1f4222d98c"
