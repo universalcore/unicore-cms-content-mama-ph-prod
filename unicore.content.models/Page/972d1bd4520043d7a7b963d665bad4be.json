@@ -4,25 +4,27 @@
   "language": "fil_PH", 
   "title": "Ika-pitong buwan", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-02-11T12:00:28.516031+00:00", 
+  "created_at": "2015-02-11T12:00:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-11T12:00:28.516248+00:00", 
+  "modified_at": "2015-02-11T12:36:32.056845+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e91acef4f8804643a3f880e388a5fd62"
+  ], 
   "id": null, 
-  "content": "cre\r\n\r\nNais na ng iyong anak na subukang kumaing mag-isa. Maaaring agawin niya mula sa iyo ang kutsara o kumuha ng pagkain mula sa iyong pinggan. Gustong-gusto niyang kumuha ng pagkain gamit ang kanyang mga kamay at kainin ito! Tandaan mong pareho lamang ang pangangailangan ng mga babae at lalaking sanggol.\r\n\r\nMaaaring maganang kumain ang iyong anak subalit kakaunti pa lamang ang kanyang ngipin. Siguruhing madaling nguyain ang mga pagkaing ipapakain sa kanya.\r\n\r\nSa edad na ito, magiging mausisa ang iyong anak sa kanyang paligid. Maaaring ihagis nya ang kanyang mga laruan o hilahin ang buhok ng kanyang kapatid! Gusto lamang nyang subukan ang iba't ibang mga bagay at hindi ito senyales ng masamang ugali. Wala pa siyang kakayahang maalala ang mga bagay kaya hindi niya gaanong mauunawaan kung siya ay iyong pagalitan. Madaling agawin ang kanyang atensyon sa edad na ito. Upang tigilan niya ang ginagawang hindi kaaya-aya, subukan mong kantahan siya pakitaan ng ibang laruan.\r\n\r\nHuwag mabahala kung hindi dikit-dikit ang kanyang mga ngipin. Mawawala ang mga puwang na ito sa edad na tatlong taon, kapag tumubo ng lahat ang kanyang mga ngipin.\r\n\r\nSa ganitong edad, maaaring mabahala ang iyong anak kapag ikaw ay aalis sa kanyang tabi. Labis siyang naka-depende sa iyo kaya ang iyong paglisan, kahit saglit lamang, ay maaaring makapag-paiyak sa kanya. Normal lamang ito at makakatulong ang inyong pansumandaling paghihiwalay upang matuto siyang makitungo sa ibang tao. Sa kalaunan ay mauunawaan niyang bagamat ikaw ay umaalis ay lagi kang babalik sa kanyang tabi.\r\n\r\nNgayon, mas madali mo nang malalaman ang kanyang mga nararamdaman. Maaaring bumati siya ng flying kiss sa mga taong kanyang kakilala. Maaaring mahawa sya sa mga mood ng mga tao sa kanyang paligid. Kapag may nakita siyang umiiyak, maaaring maiyak rin siya.\r\n", 
+  "content": "Nilikha ng BabyCenter\r\n\r\nNais na ng iyong anak na subukang kumaing mag-isa. Maaaring agawin niya mula sa iyo ang kutsara o kumuha ng pagkain mula sa iyong pinggan. Gustong-gusto niyang kumuha ng pagkain gamit ang kanyang mga kamay at kainin ito! Tandaan mong pareho lamang ang pangangailangan ng mga babae at lalaking sanggol.\r\n\r\nMaaaring maganang kumain ang iyong anak subalit kakaunti pa lamang ang kanyang ngipin. Siguruhing madaling nguyain ang mga pagkaing ipapakain sa kanya.\r\n\r\nSa edad na ito, magiging mausisa ang iyong anak sa kanyang paligid. Maaaring ihagis nya ang kanyang mga laruan o hilahin ang buhok ng kanyang kapatid! Gusto lamang nyang subukan ang iba't ibang mga bagay at hindi ito senyales ng masamang ugali. Wala pa siyang kakayahang maalala ang mga bagay kaya hindi niya gaanong mauunawaan kung siya ay iyong pagalitan. Madaling agawin ang kanyang atensyon sa edad na ito. Upang tigilan niya ang ginagawang hindi kaaya-aya, subukan mong kantahan siya pakitaan ng ibang laruan.\r\n\r\nHuwag mabahala kung hindi dikit-dikit ang kanyang mga ngipin. Mawawala ang mga puwang na ito sa edad na tatlong taon, kapag tumubo ng lahat ang kanyang mga ngipin.\r\n\r\nSa ganitong edad, maaaring mabahala ang iyong anak kapag ikaw ay aalis sa kanyang tabi. Labis siyang naka-depende sa iyo kaya ang iyong paglisan, kahit saglit lamang, ay maaaring makapag-paiyak sa kanya. Normal lamang ito at makakatulong ang inyong pansumandaling paghihiwalay upang matuto siyang makitungo sa ibang tao. Sa kalaunan ay mauunawaan niyang bagamat ikaw ay umaalis ay lagi kang babalik sa kanyang tabi.\r\n\r\nNgayon, mas madali mo nang malalaman ang kanyang mga nararamdaman. Maaaring bumati siya ng flying kiss sa mga taong kanyang kakilala. Maaaring mahawa sya sa mga mood ng mga tao sa kanyang paligid. Kapag may nakita siyang umiiyak, maaaring maiyak rin siya.\r\n", 
   "source": "7fd74f3809b6450896eff636df9329d0", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "7monthold_fil_baby", 
   "uuid": "972d1bd4520043d7a7b963d665bad4be"
