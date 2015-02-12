@@ -1,17 +1,17 @@
 {
   "subtitle": "month7 fil PH pregnancy", 
-  "description": "", 
-  "language": "FIL_PH", 
+  "description": "Ilatag na ang mga plano para sa panganganak", 
+  "language": "fil_PH", 
   "title": "Ika-pitong buwan", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-02-11T11:39:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-11T12:25:55.227621+00:00", 
+  "modified_at": "2015-02-12T09:25:00.601782+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
