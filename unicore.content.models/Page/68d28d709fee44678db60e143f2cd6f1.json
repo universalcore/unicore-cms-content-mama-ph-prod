@@ -1,21 +1,22 @@
 {
   "subtitle": "Month8 fil PH pregnancy", 
-  "description": "", 
-  "language": "FIL_PH", 
+  "description": "Naghahanda na ang iyong sanggol sa kanyang pagsilang", 
+  "language": "fil_PH", 
   "title": "Ika-walong buwan", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-02-11T11:41:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-11T12:26:23.859954+00:00", 
+  "modified_at": "2015-02-12T09:25:28.241240+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "f05a326edcaa404c819653ba898d7f1b"
+    "f05a326edcaa404c819653ba898d7f1b", 
+    "14046199c49f4828b5475a2fa130a1d7"
   ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nNaghahanda na ang iyong sanggol sa kanyang paglabas sa iyong sinapupunan. Nakaposisyon na siya na nakatutok ang ulo sa direksyon ng iyong pwerta. Mapapansin mong tila bumaba na ang kanyang posisyon kaya mas madali ng huminga subalit magiging mas madalas naman ang iyong pag-ihi.\r\n\r\nMaaaring may pamamaga sa pagitan ng iyong mga hita kung saan mararamdaman mo ang ulo ng iyong anak. Magpahinga ng nakalapat ang likod sa kama at nakapatong ang mga paa sa unan para mabawasan ang pamamaga.\r\n\r\nBuo na ang lahat ng panloob na parte ng katawan ng iyong sanggol. Nilulunok nya ang likidong pumapalibot sa kanya at inilalabas din ito. Ang kanyang mga baga ay buo na at magagamit nya ito sa una niyang paghinga sa labas ng sinapupunan.\r\n\r\nDalasan ang pagpapahinga. Nalalapit na ang pagkikita mo at ng iyong anak. Dahil sanay na siyang marinig ang iyong boses, siguradong makikilala niya ito at mababatid niyang ikaw ang kanyang ina simula sa una ninyong pagkikita!\r\n\r\nMaaaring hindi ka masyadong makaramdam ng malakas na paggalaw ng iyong sanggol sapagkat masikip na sa loob ng sinapupunan. Pero mararamdaman mo pa rin dapat siyang sumipa ng ilang beses sa loob ng isang araw. Kung may pag-aalinlangan, bilangin kung ilang beses siya sumipa matapos mong kumain. Kung mapansin mong tila hindi siya kumikilos, agad na kumunsulta sa iyong health worker.\r\n", 
