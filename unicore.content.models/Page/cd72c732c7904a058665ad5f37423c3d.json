@@ -1,17 +1,17 @@
 {
-  "subtitle": "When your baby reaches is 6 months old", 
-  "description": "When your baby reaches is 6 months old", 
+  "subtitle": "When your baby reaches 6 months old", 
+  "description": "When your baby reaches 6 months old", 
   "language": "eng_GB", 
   "title": "When to offer solid food?", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
-  "created_at": "2015-02-20T12:07:22.612782+00:00", 
+  "created_at": "2015-02-20T12:07:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-20T12:07:22.612970+00:00", 
+  "modified_at": "2015-02-20T12:08:39.530753+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-offer-solid-food", 
   "uuid": "cd72c732c7904a058665ad5f37423c3d"
