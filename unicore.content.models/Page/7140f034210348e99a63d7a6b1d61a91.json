@@ -1,0 +1,29 @@
+{
+  "subtitle": "Make sure you are both OK", 
+  "description": "Make sure you are both OK", 
+  "language": "eng_GB", 
+  "title": "Check-ups after birth", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-02-20T11:45:02.155370+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T11:45:02.155584+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. \r\n\r\nMake sure to visit the health facility on the day that has been arranged for your baby\u2019s vaccination. This is when she will be checked.\r\n\r\nTake your baby to a midwife, nurse or doctor immediately if:\r\n\r\n\u2022 Her belly is too cold or too hot\r\n\r\n\u2022 She develops yellow eyes, hands and feet within the first day of his life\r\n\r\n\u2022 She refuses to feed or sucks poorly\r\n\r\n\u2022 She will not stop crying or if his cry sounds unusual\r\n\r\n\u2022 She has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n\u2022 She is wheezing, grunting, or breathing quickly \r\n\r\n\u2022 She is vomiting after every feed for more than a day, or has a swollen tummy\r\n\r\n\u2022 The area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n\r\nRemember, boys and girls need the same amount of check-ups.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "check-ups-after-birth", 
+  "uuid": "7140f034210348e99a63d7a6b1d61a91"
+}
