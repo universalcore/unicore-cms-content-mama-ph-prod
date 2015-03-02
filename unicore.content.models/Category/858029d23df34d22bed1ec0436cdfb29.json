@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "858029d23df34d22bed1ec0436cdfb29", 
+  "language": "fil_PH", 
+  "title": "MAMA to MAMA (Filipino)", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mama-mama-filipino", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
