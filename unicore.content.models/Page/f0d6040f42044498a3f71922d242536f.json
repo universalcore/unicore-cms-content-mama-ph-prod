@@ -1,0 +1,29 @@
+{
+  "subtitle": "Kailan dapat mabahala", 
+  "description": "Kailan dapat mabahala", 
+  "language": "fil_PH", 
+  "title": "Masakit ang aking tyan", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T09:53:26.153789+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T09:53:26.158082+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nKaraniwang nararanasan ng nagbubuntis ang pananakit o paninigas ng tyan. Kadalasang hindi ito dapat ikabahala. Nagbabago ang iyong katawan at habang lumalaki ang iyong sanggol ay kailangang lumaki rin ang iyong tyan at sinapupunan.\r\n\r\nMagpahinga kung ikaw ay nakararanas ng pananakit ng tyan. Umupo ng nakataas ang paa o humiga ng patagilid at iwasang daganan ang parte ng tyan na sumasakit.\r\n\r\nMay mga pagkakataong ang pananakit ng tyan ay senyales na may problema sa pagbubuntis:\r\n\r\n - Paghilab, pagdurugo, pananakit sa gitna at mababang bahagi ng tyan sa mga unang buwan ng pagdadalang-tao ay maaaring hudyat na ikaw ay makukunan. Magtungo sa pagamutan o health facility kapag ito\u2019y maramdaman. Kung malakas ang pagdurugo \u2013 nakakapuno ka ng isang sanitary pad sa loob ng isang oras, kailangan mong agad na magtungo sa pinakamalapit na ospital.\r\n - Masakit na paghilab na nag-uumpisa sa isang bahagi ng tyan at kumakalat sa kabuuuan nito ay maaaring senyales na hindi tama ang kinalalagyan ng iyong sanggol. Maaari ka ring makaranas ng pagdurugo na maitim at malabnaw. Ito ay maaaring maranasan sa mga unang buwan ng pagbubuntis. Magtungo sa pagamutan o health facility oras na ito\u2019y maramdaman.\r\n - Sa mga huling buwan ng pagdadalang-tao, kung makaranas ka ng sakit sa ibabang bahagi ng iyong tyan, likod, paghilab, at pagtatae, maaaring hudyat ito na kailangan ng iluwal ang iyong sanggol. Magtungo agad sa ospital kung madalas ang pananakit o paghilab, may pagdurugo, at kung pumutok ang iyong panubigan.\r\n", 
+  "source": "d6643a93aa9f4c319df0174e95339510", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "masakit-ang-aking-tyan", 
+  "uuid": "f0d6040f42044498a3f71922d242536f"
+}
