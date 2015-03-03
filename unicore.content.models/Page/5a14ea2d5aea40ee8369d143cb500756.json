@@ -1,0 +1,29 @@
+{
+  "subtitle": "Maging alerto sa mga ito", 
+  "description": "Maging alerto sa mga ito", 
+  "language": "fil_PH", 
+  "title": "Mga palatandaan na may problema sa iyong panganganak", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T11:06:53.247804+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T11:06:53.248011+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nung maranasan mo ang mga sumusunod, agad na sumangguni sa iyong komdarona, nurse, o doktor o magtungo sa ospital o paanakan sa lalong madaling panahon.\r\n\r\nKung ikaw ay:\r\n\r\n - Pinutukan na ng panubigan subalit hindi pa rin nagla-labor matapos ang 6 na oras.\r\n - Nakararanas ng paghilab o paninigas ng tiyan ng mahigit sa 12 oras subalit hindi mo pa rin nailuluwal ang iyong sanggol.\r\n - Mayroong malakas na pagdurugo at nakapupuno ka ng 2 hanggang 3 napkin sa loob ng 15 minuto.\r\n - Hindi pa rin nilalabasan ng inunan matapos ang 1 oras mula ng iluwal mo ang iyong sanggol.\r\n\r\nKung ang iyong sanggol ay:\r\n\r\n - Hindi umiyak o nahihirapang huminga nang siya ay nakalabas na sa iyo.\r\n - Hindi makasuso ng maayos mula sa iyo.\r\n - May lagnat, o malamig ang balat.\r\n - Labis na maliit (kulang sa isa't kalahating kilo o isinilang ng wala pang 32 linggo).\r\n - Nakararanas ng pangingisay.\r\n", 
+  "source": "9af3e1f847524444bf03dcd87fee4778", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mga-palatandaan-na-may-problema-sa-iyong-panganganak", 
+  "uuid": "5a14ea2d5aea40ee8369d143cb500756"
+}
