@@ -1,0 +1,29 @@
+{
+  "subtitle": "Gawing kawili-wili ang pagkain ng iyong sanggol", 
+  "description": "Gawing kawili-wili ang pagkain ng iyong sanggol", 
+  "language": "fil_PH", 
+  "title": "Pagpapakain sa iyong sanggol", 
+  "primary_category": "aecde47d345f490ba62494bda5ce2930", 
+  "created_at": "2015-03-03T11:46:46.893619+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T11:46:46.894083+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nSa edad na 6 na buwan, kailangan ng iyong sanggol ng ibang uri ng pagkain bukod sa gatas mula sa iyo.\r\n\r\nHabang siya ay lumalaki, kinakailangan niya ng mas marami at iba't ibang uri ng pagkain. May mga sanggol na hindi madaling pakainin at maaari silang madaling mawalan ng gana.\r\n\r\nAng mga sumusunod ay ilang paraan upang mawiling kumain ang iyong sanggol:\r\n\r\n - Siguruhing malasa at malinamnam ang pagkain ng iyong sanggol. Maging matiyaga at huwag siyang madaliin. Kausapin siya at bantayan habang siya ay kumakain. Tandaang natututo pa lamang siya at maaaring manibago.\r\n - Kung may mga pagkakataong ayaw niyang kumain, tiyagain siyang bigyan ng pagkain subalit huwag siyang puwersahin. Huwag mo siyang bigyan ng labis na matatamis at hindi masustansyang pagkain. Makasasama ito para sa iyong sanggol.\r\n - Bigyan siya ng mga pagkaing makulay at malinamnam. Habang siya ay lumalaki, nag-iiba ang kanyang panlasa. Maaaring ayawan niya ang isang uri ng pagkain ngayon subalit magustuhan ito paglaon.\r\n - Siguruhing komportable siya sa kanyang pagkakaupo habang kumakain.\r\n - Humarap sa iyong sanggol, ngumiti sa kanya at magiliw mo siyang kausapin. Pagkakataon ito upang matuto siyang makitungo sa mga tao at matuto ng mga bagong salita.\r\n - Kung madali siyang mawalan ng interes sa pagkain dahil sa mga nagaganap sa paligid, dalhin siya sa isang tahimik na lugar at doon siya pakainin.\r\n", 
+  "source": "1cf425e998bb489082173e9ac43d8e3b", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pagpapakain-sa-iyong-sanggol", 
+  "uuid": "8eeefce13d10428d8f95c3cbabb2b147"
+}
