@@ -1,0 +1,29 @@
+{
+  "subtitle": "Magtungo agad sa center o ospital", 
+  "description": "Magtungo agad sa center o ospital", 
+  "language": "fil_PH", 
+  "title": "Labis ba ang iyong pagdurugo?", 
+  "primary_category": "aecde47d345f490ba62494bda5ce2930", 
+  "created_at": "2015-03-03T11:23:11.573213+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T11:23:11.573400+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nKung napupuno ng dugo ang iyong napkin sa loob lamang ng isang oras, magtungo agad sa ospital.\r\n\r\nNormal lamang ang pagdurugo matapos manganak sapagkat nililinis ng iyong katawan ang iyong sinapupunan.\r\n\r\nSubalit kung labis ang iyong pagdurugo, kailangan mong magtungo agad sa doktor. Maaari kang mahilo o mahimatay sa labis na pagdurugo.\r\n\r\nMay ilang mga dahilan kung bakit nakararanas ka ng labis na pagdurugo.\r\n\r\nMatapos mong manganak, dapat na tumigil ang pagdaloy ng iyong dugo sa sinapupunan kung saan dati itong dumadaloy patungo sa iyong sanggol. Kapag hindi ito tumigil, maaari itong maging sanhi ng labis na pagdurugo.\r\n\r\nMay mga pagkakataong hindi mo nailabas ng maayos ang inunan na nagiging dahilan din ng labis na pagdurugo.\r\n\r\nMatutulungan ka ng komadrona, nurse, o doctor upang mapigilan ang labis na pagdurugo. Maaari kang turukan ng gamot o painumin ng tablet. Maaaring kailanganin mo rin ng swero. Magtungo agad sa ospital kung labis ang iyong pagdurugo at pulang-pula ang dugong lumalabas mula sa iyo.\r\n\r\nKailangan mo ng sapat na pahinga sa bahay. Humingi ng tulong mula sa mga kaanak o kaibigan.\r\n\r\nKung niresetahan ka ng mga gamot, siguruhing inumin itong lahat sa tamang oras bagamat umigi na ang iyong pakiramdam. Makatutulong ito sa iyong tuluyang paggaling.\r\n", 
+  "source": "dae4615f2aeb4aaa920063da17128a3e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "labis-ba-ang-iyong-pagdurugo", 
+  "uuid": "488d19dac69d4181ba615c360a5ca64c"
+}
