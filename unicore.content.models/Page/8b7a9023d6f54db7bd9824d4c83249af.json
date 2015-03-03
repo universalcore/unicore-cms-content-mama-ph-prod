@@ -1,0 +1,29 @@
+{
+  "subtitle": "Mga paraan upang protektahan ang sarili laban sa malaria", 
+  "description": "Mga paraan upang protektahan ang sarili laban sa malaria", 
+  "language": "fil_PH", 
+  "title": "Maaari ba kong makaiwas sa malaria?", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T10:20:43.452367+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T10:20:43.452576+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nDelikado ang malaria para sa iyo at sa iyong sanggol. Maaari kang magkaroon ng anemia, kung saan bumababa ang dugo sa iyong katawan na nagiging sanhi ng panghihina at pagkahapo. Ang mga sumusunod ay ilan sa mga paraan upang protektahan ang iyong sarili at ang iyong sanggol laban sa malaria:\r\n\r\n - Gumamit ng kulambong nilubog sa insecticide kapag natutulog, kahit na mainit ang panahon.\r\n - Magsuot ng mga kasuotang light-colored lalo na kung lumalabas sa gabi dahil lumalapit ang mga lamok sa mga kasuotang may madidilim na kulay.\r\n - Magsuot ng mahahabang damit upang matakpan ang balat at hindi makagat ng lamok.\r\n - Magpahid ng mosquito repellent sa balat at gumamit ng katol sa loob ng bahay.\r\n - Nabubuhay ang mga lamok sa mga nakaimbak at maruming tubig. Sigurihing malinis ang paligid upang walang pagtaguan ng lamok.\r\n\r\nKung nakatira ka sa lugar na walang malaria at magtutungo sa lugar kung saan may malaria, sumangguni sa komadrona, nurse, o doktor kung ano ang gamit na maaari mong inumin upang protektahan ang sarili laban sa sakit na ito.\r\n", 
+  "source": "f37044501abc4c86b0cad108a3c2ea2e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "maaari-ba-kong-makaiwas-sa-malaria", 
+  "uuid": "8b7a9023d6f54db7bd9824d4c83249af"
+}
