@@ -1,0 +1,29 @@
+{
+  "subtitle": "Panatilihin ang kalinisan upang labanan ang germs", 
+  "description": "Panatilihin ang kalinisan upang labanan ang germs", 
+  "language": "fil_PH", 
+  "title": "Makakaiwas ba ako sa sakit?", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T10:07:55.372742+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T10:07:55.372939+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nMahalaga ang panatilihing malinis ang pangangatawan, lalo na kung ikaw ay nagdadalang-tao. Ang kalinisan ang makatutulong upang labanan ang germs na nagdadala ng sakit at impeksyon.\r\n\r\nIto ang ilan sa mga paraan upang mapanatili ang kalinisan:\r\n\r\n - Maghugas ng kamay gamit ang malinis na tubig. Ito ang pinakamahusay na paraan upang makaiwas sa germs na nagdadala ng diarrhea. Maghugas ng kamay pagdating sa bahay, bago magluto at kumain, pagkagaling sa banyo at pagkatapos humawak ng hayop. Siguruhing malinis ang buong kamay, kasama ang pulso, mga daliri at kuko. Banlawang maigi upang siguruhing walang maiiwang sabon.\r\n - Maghugas ng maigi sa tuwing gagamit ng banyo. Hugasan ang ari mula harap papunta sa likod. Maghugas ng kamay pagkatapos nito.\r\n - Magsuot ng panty na gawa sa cotton, upang makahinga ang balat. Uminom ng sapat na malinis na tubig. Makatutulong ito upang makaiwas ang impeksyon sa ihi.\r\n - Maligo ng buong katawan araw-araw. Sa ganitong paraan mapapanatili ang kalinisan at makaiiwas sa impeksyon.\r\n", 
+  "source": "9c65f31035034abe8ceb171abbc3ab64", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "makakaiwas-ba-ako-sa-sakit", 
+  "uuid": "8398d0dfb0c84ae48afb4775897628c6"
+}
