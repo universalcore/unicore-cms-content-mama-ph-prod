@@ -1,0 +1,29 @@
+{
+  "subtitle": "Sa komadrona, nurse, o doktor", 
+  "description": "Sa komadrona, nurse, o doktor", 
+  "language": "fil_PH", 
+  "title": "Kanino ko pwedeng sabihin?", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T09:26:30.848849+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T09:26:30.849049+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "May ilang kababaihang gusto munang isekreto ang kanilang pagbubuntis.\r\n\r\nKapag kumonsulta ka sa komadrona, nurse, o doktor, hindi ibig sabihin na kailangan mo ng ipaalam sa ibang tao na ikaw ay nagdadalang-tao.\r\n\r\nMakabubuti para sa iyo at sa iyong sanggol ang kumonsulta sa komdarona, nurse, o doktor. Ang tamang pangangalaga sa kalusugan mo at ng iyong sanggol ay makatutulong para makaiwas sa anumang problema o komplikasyon sa pagbubuntis.\r\n\r\nSiguraduhing regular na kumonsulta sa komadrona, nurse, o doktor kahit na mainam ang iyong pakiramdam upang matiyak na malusog ang pangangatawan mo at ng sanggol sa iyong sinapupunan.\r\n", 
+  "source": "0797b03216144329ab60ff6672a2a02f", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "kanino-ko-pwedeng-sabihin", 
+  "uuid": "1b040291a53e4f11ba3d08ef7e82ade2"
+}
