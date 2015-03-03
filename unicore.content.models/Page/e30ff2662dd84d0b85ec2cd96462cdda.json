@@ -1,0 +1,29 @@
+{
+  "subtitle": "Bantayang maigi upang masigurong ligtas ang iyong sanggol", 
+  "description": "Bantayang maigi upang masigurong ligtas ang iyong sanggol", 
+  "language": "fil_PH", 
+  "title": "Maging alerto sa mga sintomas ng TB", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T10:17:36.691987+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T10:17:36.692379+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nKung mayroon sa iyong pamilya na may TB, nararapat na magpa-test ang lahat ng iyong mga kasama sa bahay. Kailangan itong ipagamot agad upang hindi mahawa ang iyong sanggol.\r\n\r\nMaging alerto sa mga sintomas ng TB sa iyo at sa iyong pamilya. Delikado ang sakit na TB. Maaari kang mahawa sa pamamagitan ng pag-ubo o paghatsing ng taong may TB. Ang bakteryang nagdudulot ng TB ay hindi basta-basta nawawala sa kapaligiran.\r\n\r\nAng ubong tumatagal ng mahigit na dalawang lingo at ang di-inaasahang pangangayayat o pagbaba ng timbang ay ilan sa mga senyales ng TB. Magpatingin agad sa komadrona, nurse, o doktor upang makumpirma ito at mabigyan ka agad ng mga tamang gamot para rito.\r\n\r\nKinakailangang siguruhing kumpletuhin ang pag-inom ng gamot laban sa TB upang tuluyang mawala ito. Kapag hindi nakumpleto ang pag-inom ng gamot, maaari itong bumalik.\r\n\r\nMas madali kang mahawa ng TB kung ikaw ay nagdadalang-tao. Mag-ingat ng mabuti at lumayo sa mga may ubo at sipon. \r\n\r\nKung mayroong may TB sa iyong pamilya, ang tuloy-tuloy na pag-inom ng gamot ng anim na buwan ay kailangan upang siguruhing hindi sila makakahawa ng iba. Siguruhing takpan ang bibig at ilong lalo na kung umuubo o bumabahing. Mainam na gumamit ng mask bilang dagdag na proteksyon.\r\n", 
+  "source": "540f0c8bb99e4a28b3687dc9ed2c4ebc", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "maging-alerto-sa-mga-sintomas-ng-tb", 
+  "uuid": "e30ff2662dd84d0b85ec2cd96462cdda"
+}
