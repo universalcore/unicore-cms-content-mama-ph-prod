@@ -1,0 +1,29 @@
+{
+  "subtitle": "Narito ang mga palatandaan", 
+  "description": "Narito ang mga palatandaan", 
+  "language": "fil_PH", 
+  "title": "Paano ko malalaman kung ako ay manganganak na?", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T11:00:57.206627+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T11:00:57.207046+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nKung ito ay unang beses mong manganganak, maaaring nag-aalinlangan ka kung ikaw nga ay nagla-labor na. Kung ikaw naman ay nagsilang na, madali mo ng malalaman dahil alam mo na kung ano ang pakiramdam ng nagla-labor.\r\n\r\nHabang ikaw ay nagdadalang-tao, maaari kang makaranas ng paghilab o paninigas ng tiyan na paraan ng iyong katawan upang maghanda sa iyong pagsilang. Kung sa tingin mo ay nagla-labor ka na, makabubuting sagutin ang mga sumusunod na tanong at makapagdesisyon kung oras na upang magtungo ka sa paanakan.\r\n\r\n - Sumasakit ba ang ibabang bahagi ng iyong likod o tiyan?\r\n - Nakararanas ka ba ng sakit na tila ikaw ay magkakaregla?\r\n - May pagdurugo ba sa iyong ari o may lumalabas bang tila malapot at mamula-mulang  likido mula rito?\r\n - Tumatagal ba at tumitindi ang paghilab at paninigas ng iyong tiyan? Kung dumadalas ito habang tumatagal, magtungo na sa paanakan.\r\n - Pumutok na ba ang iyong panubigan? Ang iyong sanggol ay napapalibutan ng tubig sa iyong sinapupunan. Kung may lumabas na likido na tila tubig mula sa iyong ari, magtungo agad sa paanakan. Oras na ng iyong panganganak!\r\n\r\nKung nararanasan mo ang mga ito, nagsisimula ka nang mag-labor.\r\n", 
+  "source": "ae486b7edb35413e90ecae9f4ec17f0b", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "paano-ko-malalaman-kung-ako-ay-manganganak-na", 
+  "uuid": "71a8930854ce474da21d029003b86864"
+}
