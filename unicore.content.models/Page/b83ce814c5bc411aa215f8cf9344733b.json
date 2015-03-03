@@ -1,0 +1,29 @@
+{
+  "subtitle": "Maaaring mayroon kang impeksyon", 
+  "description": "Maaaring mayroon kang impeksyon", 
+  "language": "fil_PH", 
+  "title": "Masakit ang aking ari pag ako ay umiihi", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T09:47:14.633962+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T09:47:14.634146+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nAng iyong sanggol ay lumalaki sa loob ng iyong sinapupunan na nasa taas ng iyong bahay-tubig (kung saan naiipon ang iyong ihi). Ang bigat ng iyong sanggol ay dumadagan sa bahay-tubig na siyang dahilan ng madalas mong pag-ihi. Karaniwan itong nararanasan ng mga  nagdadalang-tao. Uminom ng maraming malinis na tubig sapagkat kailangan mo ito upang mapanatili ang kalusugan ng iyong katawan.\r\n\r\nKung nakarararanas ka ng sakit sa ari kung ikaw ay umiihi, maaaring mayroon kang impeksyon. Maaari kang lagnatin, o makaranas ng panlalamig o pag-init ng katawan. Ang iba pang sintomas ng impeksyon ay dugo sa ihi, pagkahilo, at panginginig. Maaari ring makaranas ng sakit habang nakikipagtalik.\r\n\r\nMahalagang maipagamot kung ikaw ay may impeksyon kaya\u2019t kumonsulta agad sa komadrona, nurse, o doktor.  Ang germs sa iyong ihi ay maaaring magdulot ng impeksyon sa bato, na delikado para sa iyo at sa sanggol sa iyong sinapupunan.\r\n\r\nMaaaring maiwasang magkaroon ng impeksyon sa ihi.\r\n\r\n - Matapos umihi, magbuhos ng tubig mula sa ari papunta sa puwitan, o maghugas gamit ang sabon. Ang pagpunas ay dapat lagging mula sa harap papunta sa likod.\r\n - Ugaliing uminom ng maraming malinis na tubig. Makatutulong ito upang mawala ang impeksyon.\r\n - Huwag magpigil ng ihi!\r\n - Hangga\u2019t maaari, umihi matapos makipagtalik upang matanggal ang mga germs.", 
+  "source": "00f6a491cc4c4355a87ea988735b808e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "masakit-ang-aking-ari-pag-ako-ay-umiihi", 
+  "uuid": "b83ce814c5bc411aa215f8cf9344733b"
+}
