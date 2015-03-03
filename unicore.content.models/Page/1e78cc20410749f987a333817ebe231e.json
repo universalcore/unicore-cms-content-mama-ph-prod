@@ -1,0 +1,29 @@
+{
+  "subtitle": "Sundin ang mga alituntuning ito", 
+  "description": "Sundin ang mga alituntuning ito", 
+  "language": "fil_PH", 
+  "title": "Paano makasisigurong ligtas ang pagkain", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T10:33:30.162185+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T10:33:30.162373+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nMaaari kang magkasakit kapag kumain ka ng napanis o nasirang pagkain. Siguruhing ligtas ang iyong kinakain sa pamamagitan ng paghahanda nito araw-araw. Panatilihing malinis ang iyong hapag-kainan at kusina. Itabi ang pagkain sa malinis, at tuyong lugar na hindi naaarawan.\r\n\r\n - Lutuing maigi ang lahat ng karne, lalo na ang manok. Siguruhing puti na at hindi mamula-mula ang mga piraso ng karne at manok.\r\n - Lutuin ding maigi ang itlog, iwasang kumain ng malasado pa ang pula. Pakuluan ang gatas upang masigurong wala itong anumang mikrobyo o germs na magdudulot ng sakit.\r\n - Kung bumibili ng lutong pagkain, siguruhing malinis ang kanilang kusina at tindahan. Tangkilikin ang mga popular na bilihan ng pagkain upang makasigurong laging bagong luto ang kanilang tinda.\r\n - Maghugas ng kamay bago magluto, at pagkatapos magbanyo o maghawak ng mga hayop.\r\n - Hugasang mabuti ang mga pinagkainan at pati ang lugar na pinaglutuan gamit ang tubig at sabon upang masigurong walang natitirang mga pagkain.\r\n\r\nKung may mga sugat sa kamay, siguruhing malinis ito at balutan ng malinis na tela o lagyan ng Band-Aid kung kinakailangan.\r\n\r\nSiguruhing walang makalalapit na mga hayop sa kusina o kung saan ka man naghahanda ng pagkain. Maaaring magdala ng mikrobyo ang mga hayop at maging sanhi ng pagkakasakit.\r\n", 
+  "source": "92e8eecda77a4f439588e755e5cf5ad8", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "paano-makasisigurong-ligtas-ang-pagkain", 
+  "uuid": "1e78cc20410749f987a333817ebe231e"
+}
