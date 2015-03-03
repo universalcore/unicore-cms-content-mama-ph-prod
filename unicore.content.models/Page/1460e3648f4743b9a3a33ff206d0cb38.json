@@ -1,0 +1,29 @@
+{
+  "subtitle": "Nakatutulong ito upang makaiwas sa sakit", 
+  "description": "Nakatutulong ito upang makaiwas sa sakit", 
+  "language": "fil_PH", 
+  "title": "Bakit ko kailangang maghugas ng kamay?", 
+  "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
+  "created_at": "2015-03-03T10:06:24.527462+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T10:06:24.527654+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nilikha ng BabyCenter\r\n\r\nHindi ka dapat magkasakit habang ikaw ay nagdadalang-tao.\r\n\r\nUgaliing maghugas ng kamay gamit ang sabon at malinis na tubig. Hikayatin ang iyong pamilyang gawin din ito. Nakatutulong ang paghuhugas ng kamay sa pag-iwas sa mga sakit na gaya ng pulmonia at diarrhea.\r\n\r\nMaghugas ng kamay:\r\n\r\n - Pagdating ng bahay\r\n - Pagkatapos mag-CR\r\n - Pag humawak ng alagang hayop o nagtrabaho kapiling ang hayop\r\n - Bago magluto\r\n - Pagkatapos humawak ng hilaw na itlog, isda, manok, baboy, o baka\r\n - Bago kumain\r\n\r\nTamang paghuhugas ng kamay:\r\n\r\n - Gumamit ng malinis na tubig at sabon\r\n - Basain ang kamay\r\n - Lagyan ng sabon ang kamay at pabulain ng husto sa pamamagitan ng pagkuskos ng maigi\r\n - Siguruhing linisin pati pagitan ng mga daliri at ilalim ng kuko\r\n - Patagalin ito ng may 15 segundo\r\n - Banlawin ng mabuti ang mga kamay gamit ang malinis na tubig at siguruhing walang maiiwang sabon\r\n - Ipahid ang mga kamay sa tuyo at malinis na bimpo o basahan\r\n\r\nMaaaring maglagay ng hugasan ng kamay malapit sa kalan o sa labas ng CR upang maging madali ang paghuhugas ng kamay.\r\n\r\nMalaking tulong ang magagawa ng paghuhugas ng kamay sa pag-iwas sa maraming sakit gaya ng diarrhea.\r\n", 
+  "source": "215cf4abcbfb40c09c717696e3afad30", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "bakit-ko-kailangang-maghugas-ng-kamay", 
+  "uuid": "1460e3648f4743b9a3a33ff206d0cb38"
+}
