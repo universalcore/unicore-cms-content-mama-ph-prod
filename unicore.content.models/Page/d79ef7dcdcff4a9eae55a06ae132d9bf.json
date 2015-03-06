@@ -6,15 +6,23 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:11:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-06T11:55:18.075655+00:00", 
+  "modified_at": "2015-03-06T11:55:22.031089+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "92d3fcc743d94ca7a5fd5bdb18623472", 
+    "05325b4afebf45d5af6afd62ae8c9b2c", 
+    "c6295b6425504c94bb79a6c1f0befd2f", 
+    "29c83fd7efb049699ce93702cdf6db49", 
+    "92e8eecda77a4f439588e755e5cf5ad8", 
+    "17bc4409092f495c942b9464fc0dcc08", 
+    "ffec808f23b24c40946b131c1591e8c9"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nNow you are pregnant, it is important to try to eat well so your baby will grow well. You and your growing baby need lots of different foods. \r\n\r\nA simple way to think about it is to eat lots of different coloured foods! \r\n\r\nYou could talk to your family about the food you need.\r\n\r\nTry to eat some of each of these food types every day:\r\n\r\n\u2022\tFruit and vegetables. These protect your baby from being born with a problem.\r\n\r\n\u2022\tStarchy foods. These include bread, rice, noodles, pumpkin and potatoes. These foods give you energy.\r\n\r\n\u2022\tFoods rich in protein. These include eggs, dark green leafy vegetables, tofu, nuts, chicken, fish and meat. These are body building foods.\r\n\r\n\u2022\tCalcium-rich and dairy foods. These include tofu and broccoli. They help your baby grow strong bones.\r\n\r\n\u2022\tSoft drinks which contain lots of sugar are not good for you. Try to have clean, safe water instead.\r\n", 
   "source": null, 
