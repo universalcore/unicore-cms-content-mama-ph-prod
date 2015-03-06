@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T10:00:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-06T11:26:24.591775+00:00", 
+  "modified_at": "2015-03-06T11:26:27.919438+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "92d3fcc743d94ca7a5fd5bdb18623472", 
+    "469f50fe45204d219e3b38d41d26ae69", 
+    "be598b483dcf4858b0c8e8252379aeea", 
+    "873bb4f16f29409c979ea9adcbd45393", 
+    "6fba10bcdac142b281986ad227efe8e1", 
+    "dc276b16079347c0aba202b6f2153983"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nHigh blood pressure can mean that your baby does not get all the food and oxygen he needs, so he may be born very small and weak. It can also make you very ill, and cause fits, especially in later pregnancy.\r\n\r\nYou may not feel any different if you have high blood pressure, so it is important to see a midwife, nurse or doctor to check your blood pressure regularly while you are pregnant.\r\n\r\nA wide cuff will be put around your arm to measure your blood pressure. It will not hurt but it feels tight for a few moments. Your midwife, nurse or doctor will write the results down so that you have a record of your blood pressure at each visit. She will compare the measurements at each visit so she can spot any problems.\r\n\r\nYou are more likely to get high blood pressure if you are very overweight. Do not add salt to food. If you already have high blood pressure, this will make it worse.\r\n\r\nThere are medicines to control high blood pressure. See a midwife, nurse or doctor regularly, so any problems can be found early and you can get the right medicine. \r\n", 
   "source": null, 
