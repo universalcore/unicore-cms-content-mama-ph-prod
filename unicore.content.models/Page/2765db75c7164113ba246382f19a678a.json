@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:18:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-06T12:03:59.833300+00:00", 
+  "modified_at": "2015-03-06T12:04:05.897173+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "92d3fcc743d94ca7a5fd5bdb18623472", 
+    "64ebd85fbaae46d9a97c770ee5232e53", 
+    "469f50fe45204d219e3b38d41d26ae69", 
+    "c6295b6425504c94bb79a6c1f0befd2f", 
+    "29c83fd7efb049699ce93702cdf6db49", 
+    "d79ef7dcdcff4a9eae55a06ae132d9bf"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nVitamins are important in your diet, especially when you are pregnant. They help your baby to grow healthily and keep your body in good shape for becoming a mother. \r\n\r\nEat a variety of fresh food of different colours each day to get vitamins:\r\n\r\n\u2022\tEggs, orange-coloured fruit and vegetables like mangoes and papaya, sweet potato or carrots. These foods contain vitamin A, which helps your baby's organs and body systems to develop.\r\n\t\r\n\r\n\u2022\tBananas, potatoes and chicken, tofu, brown rice and green vegetables. These foods supply B vitamins to help your body use protein, fats, and carbohydrates (starches). They also help to form new red blood cells and develop the brain and nerves.\r\n\r\n\u2022\tCitrus fruit like pomelo and lime, vegetables like potatoes and tomatoes. These are all good sources of vitamin C, which is needed for repairing and growing skin and body tissue. It also helps growth and strengthens bones and teeth. \r\n\r\n\u2022\tOily fish like sardines, soy milk, almond milk, rice milk and eggs. These contain vitamin D, which helps to build bones and teeth and helps you to fight germs. Our bodies can also make vitamin D from sunlight. \r\n", 
   "source": null, 
