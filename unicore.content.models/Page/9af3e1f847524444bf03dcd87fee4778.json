@@ -6,15 +6,21 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-20T11:30:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-06T12:13:25.158026+00:00", 
+  "modified_at": "2015-03-06T12:13:29.619195+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "92d3fcc743d94ca7a5fd5bdb18623472", 
+    "7140f034210348e99a63d7a6b1d61a91", 
+    "fe54d33f17e9417d97c2dacc2f532d15", 
+    "9a89aca732af4496a9827cc08159b61d", 
+    "1e31b9cdc4854dbaa4b176957bb7b814"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf you notice any of these things happening, speak to your midwife, nurse or doctor or go to a hospital as soon as you can. \r\n\r\nYou:\r\n\r\n\u2022 If your waters have broken but you are not in labour after 6 hours\r\n\r\n\u2022 Your contractions are lasting for over 12 hours, but the baby has not come yet\r\n\r\n\u2022 You are bleeding heavily and the blood soaks more than 2 to 3 pads in 15 minutes\r\n\r\n\u2022 Your placenta has not come out, and it is 1 hour after the birth of your baby\r\n\r\nYour baby:\r\n\r\n\u2022 You notice that your baby does not cry at birth, or has difficulty breathing\r\n\r\n\u2022 You notice that your baby cannot breastfeed\r\n\r\n\u2022 You notice that your baby has a fever, or feels cold\r\n\r\n\u2022 Your baby is very small (less than 1500 grams or born earlier than 32 weeks)\r\n\r\n\u2022 Your baby has fits\r\n", 
   "source": null, 
