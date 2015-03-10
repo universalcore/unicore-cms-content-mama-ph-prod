@@ -6,15 +6,19 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-20T11:57:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-10T09:07:52.653858+00:00", 
+  "modified_at": "2015-03-10T09:08:03.303086+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "92d3fcc743d94ca7a5fd5bdb18623472", 
+    "88fcaf03263840b5a5f23dc8375a6957", 
+    "882f0d1425fa4dfc8bca577f4875175c"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf your baby has diarrhoea, she needs to replace the fluids she is losing, or she will get dehydrated. This means that her body does not have enough water to keep going. Keep offering your breast and let her feed as often as she wants.\r\nIf she is younger than 6 months, she does not need any water. Breastmilk will give her all she needs.\r\nIf she is older than 6 months, give her small sips of clean, safe water between feeds. If you can, try giving her sips of oral rehydration solution (ORS), a few times an hour. ORS is a powder which is dissolved in a litre of clean, boiled and cooled water. You can store this and use it over 8-12 hours. Give your baby 15-20 teaspoons of ORS after each loose stool. Spread the teaspoons out over half an  hour. Take your baby to a midwife, nurse or doctor as soon as possible if:\r\n\r\n\u2022\tshe has diarrhoea for more than 1 day\r\n\r\n\u2022\tshe has dry skin or lips\r\n\r\n\u2022\tshe is passing water that is dark yellow and she is passing water less often\r\n\r\n\u2022\tthe soft spot in her head is sunken\r\n\r\n\u2022\tshe refuses to drink, has blood in her stools or has a swollen tummy\r\n\r\n\u2022\tshe vomits for more than a day, or has a fever which lasts more than a day.\r\n", 
   "source": null, 
