@@ -1,17 +1,17 @@
 {
-  "subtitle": "Makatutulong ito upang mapangalagaan ang iyong kalusugan", 
+  "subtitle": "Why do I need regular check-ups?", 
   "description": "Makatutulong ito upang mapangalagaan ang iyong kalusugan", 
   "language": "fil_PH", 
   "title": "Bakit ko kailangang magpacheck-up ng regular?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T09:35:33.277925+00:00", 
+  "created_at": "2015-03-03T09:35:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T09:35:33.278144+00:00", 
+  "modified_at": "2015-03-17T12:03:00.388466+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 92, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "bakit-ko-kailangang-magpacheck-ng-regular", 
   "uuid": "ddd09aa206df4836819bf4088c8e7d50"
