@@ -1,17 +1,17 @@
 {
-  "subtitle": "Pasusuhin siya ng iyong gatas sa unang 6 na buwan", 
+  "subtitle": "Breastmilk is all she needs", 
   "description": "Pasusuhin siya ng iyong gatas sa unang 6 na buwan", 
   "language": "fil_PH", 
   "title": "Ang gatas mula sa iyo ang tanging kailangan niyang pagkain", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-03-03T11:13:17.010189+00:00", 
+  "created_at": "2015-03-03T11:13:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:13:17.010363+00:00", 
+  "modified_at": "2015-03-17T12:29:02.485466+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 40, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ang-gatas-mula-sa-iyo-ang-tanging-kailangan-niyang-pagkain", 
   "uuid": "19f59d14294d4c2bad2cb91c6c8c1212"
