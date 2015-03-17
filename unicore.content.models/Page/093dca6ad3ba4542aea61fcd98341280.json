@@ -1,17 +1,17 @@
 {
-  "subtitle": "Kumain ng kaunti subalit madalas", 
+  "subtitle": "How can I feel less nauseous?", 
   "description": "Kumain ng kaunti subalit madalas", 
   "language": "fil_PH", 
   "title": "Paano ko maiiwasan ang mahilo at masuka?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T09:37:34.670443+00:00", 
+  "created_at": "2015-03-03T09:37:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T09:37:34.670643+00:00", 
+  "modified_at": "2015-03-17T12:19:01.210875+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 90, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "paano-ko-maiiwasan-ang-mahilo-masuka", 
   "uuid": "093dca6ad3ba4542aea61fcd98341280"
