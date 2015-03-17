@@ -1,17 +1,17 @@
 {
-  "subtitle": "Mga bagong salita at ang kahulugan nito", 
+  "subtitle": "Words about pregnancy and birth ", 
   "description": "Mga bagong salita at ang kahulugan nito", 
   "language": "fil_PH", 
   "title": "Ilang mga salita tungkol sa pagbubuntis at panganganak", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-03-03T11:56:51.834419+00:00", 
+  "created_at": "2015-03-03T11:56:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:56:51.834624+00:00", 
+  "modified_at": "2015-03-17T12:03:16.575172+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
