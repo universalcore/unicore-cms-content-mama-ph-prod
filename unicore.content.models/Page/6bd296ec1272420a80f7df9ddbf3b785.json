@@ -1,17 +1,17 @@
 {
-  "subtitle": "Makakatulong ang mabilis na pagbuga ng hangin mula sa bibig", 
+  "subtitle": "The birth of your baby", 
   "description": "Makakatulong ang mabilis na pagbuga ng hangin mula sa bibig", 
   "language": "fil_PH", 
   "title": "Ang pagsilang ng iyong sanggol", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T11:06:12.471453+00:00", 
+  "created_at": "2015-03-03T11:06:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:06:12.471702+00:00", 
+  "modified_at": "2015-03-17T12:07:30.814731+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 46, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ang-pagsilang-ng-iyong-sanggol", 
   "uuid": "6bd296ec1272420a80f7df9ddbf3b785"
