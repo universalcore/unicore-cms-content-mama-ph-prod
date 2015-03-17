@@ -1,17 +1,17 @@
 {
-  "subtitle": "Ang calcium ay para sa maayos na paglaki ng buto ng iyong sanggol", 
+  "subtitle": "Why do I need calcium?", 
   "description": "Ang calcium ay para sa maayos na paglaki ng buto ng iyong sanggol", 
   "language": "fil_PH", 
   "title": "Bakit kailangan ko ng calcium?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T10:42:41.803052+00:00", 
+  "created_at": "2015-03-03T10:42:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:42:41.803232+00:00", 
+  "modified_at": "2015-03-17T12:10:45.216521+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 58, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "bakit-kailangan-ko-ng-calcium", 
   "uuid": "1c4c38965df345d393fed791ecc2528d"
