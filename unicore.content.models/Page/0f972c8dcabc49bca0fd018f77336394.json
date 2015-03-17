@@ -1,17 +1,17 @@
 {
-  "subtitle": "Kumain ng makukulay na pagkain", 
+  "subtitle": "Should I eat differently?", 
   "description": "Kumain ng makukulay na pagkain", 
   "language": "fil_PH", 
   "title": "Kailangan ko bang baguhin ang aking mga kinakain?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T10:31:13.040517+00:00", 
+  "created_at": "2015-03-03T10:31:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:31:13.040872+00:00", 
+  "modified_at": "2015-03-17T12:11:57.967569+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 63, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kailangan-ko-bang-baguhin-ang-aking-mga-kinakain", 
   "uuid": "0f972c8dcabc49bca0fd018f77336394"
