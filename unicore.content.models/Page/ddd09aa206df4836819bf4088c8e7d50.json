@@ -6,15 +6,20 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T09:35:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-17T12:40:17.918120+00:00", 
+  "modified_at": "2015-03-17T14:01:01.092806+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "b9e692964695466597aa28e275cc0778", 
+    "62cd320115e04fc0a59631724ee50629", 
+    "4d99a3b9bf6c42008820095b655f8545"
+  ], 
   "id": null, 
   "content": "Nilikha ni BabyCenter\r\n\r\nKung ikaw ay nagdadalang-tao, makabubuting kumonsulta ng regular sa komadrona, nurse, o doktor sa isang pagamutan. Mas makabubuting magpatingin ng hindi bababa sa apat na beses habang ikaw ay nagdadalang-tao. Ang unang pagkonsulta ay dapat na gawin matapos mong mapansin na hindi ka dinatnan ng iyong mens sa isang buwan.\r\n\r\nIto ang ilan sa mga dahilan kung bakit dapat kang regular na magpacheck-up:\r\n\r\n - May mga tests na maaaring gawin ang komadrona, nurse, o doctor upang masigurong ikaw at ang sangol sa iyong sinapupunan ay malusog at ligtas.\r\n - Kung sakaling magkaroon ng problema sa iyong pagbubuntis, maaaga itong makikita ng iyong komadrona, nurse, o doktor. Kapag naagapan, mas magiging madali itong masolusyonan.\r\n - Kung may mga katanungan ka tungkol sa iyong pagbubuntis, ang iyong komadrona, nurse, o doktor ang pinakamahusay na konsultahin ukol dito. Sila ang makapagbibigay sa iyo ng tama at wastong kasagutan.\r\n - Maaari kang makakuha ng libreng iron at folic acid na vitamins mula sa iyong komadrona, nurse, o doktor. Ang mga vitamins na ito ay nagpapanatiling malakas ang iyong pangangatawan habang ikaw ay nagdadalang-tao, sinisiguro rin nito na malusog at malakas ang iyong sanggol sa iyong sinapupunan, at inihahanda nito ang iyong katawan sa panganganak.\r\n - Makasisiguro kang ligtas at lumalaki ng wasto ang sanggol sa iyong sinapupunan.\r\n\r\nAlamin mo kung saan ang pinakamalapit na komadrona, nurse, o doktor sa pagamutan sa inyong lugar. Ipaalam sa iyong pamilya kung bakit kailangan mong regular na magpacheck-up habang ikaw ay nagdadalang-tao. Hingin ang kanilang tulong kung kinakailangan.\r\n\r\nMaari kang magpasama sa kamag-anak o kaibigan. Huwag kalimutang magbaon ng pagkain at tubig kung may kalayuan ito sa iyong tirahan.", 
   "source": "dc276b16079347c0aba202b6f2153983", 
