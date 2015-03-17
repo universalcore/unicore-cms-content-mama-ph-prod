@@ -1,17 +1,17 @@
 {
-  "subtitle": "Paano papanatilihin malinis at ligtas ang tubig", 
+  "subtitle": "Clean, safe water", 
   "description": "Paano papanatilihin malinis at ligtas ang tubig", 
   "language": "fil_PH", 
   "title": "Malinis at ligtas na tubig", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T10:28:04.312603+00:00", 
+  "created_at": "2015-03-03T10:28:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:28:04.312808+00:00", 
+  "modified_at": "2015-03-17T12:12:27.950572+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 65, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "malinis-ligtas-na-tubig", 
   "uuid": "5029596b0a494f2c917803920dc9fcbf"
