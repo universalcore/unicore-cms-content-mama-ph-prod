@@ -1,17 +1,17 @@
 {
-  "subtitle": "Malusog na ina, malusog na sanggol", 
+  "subtitle": "5 ways to stay healthy ", 
   "description": "Malusog na ina, malusog na sanggol", 
   "language": "fil_PH", 
   "title": "5 Paraan Upang Mapanatili ang Kalusugan", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T09:29:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T09:33:23.790675+00:00", 
+  "modified_at": "2015-03-17T12:02:24.244336+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 93, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "5-paraan-upang-mapanatili-ang-kalusugan", 
   "uuid": "4d99a3b9bf6c42008820095b655f8545"
