@@ -1,17 +1,17 @@
 {
-  "subtitle": "Gawing ligtas ang iyong tahanan para sa iyong sanggol", 
+  "subtitle": "Keep your baby safe", 
   "description": "Gawing ligtas ang iyong tahanan para sa iyong sanggol", 
   "language": "fil_PH", 
   "title": "Siguruhing ligtas ang iyong sanggol", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-03-03T11:50:40.629203+00:00", 
+  "created_at": "2015-03-03T11:50:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:50:40.629387+00:00", 
+  "modified_at": "2015-03-17T12:20:06.350583+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "siguruhing-ligtas-ang-iyong-sanggol", 
   "uuid": "e70d4fd1fc334d5cb988f0505e8550fb"
