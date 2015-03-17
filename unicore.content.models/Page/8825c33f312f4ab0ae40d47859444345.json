@@ -1,17 +1,17 @@
 {
-  "subtitle": "Lalabas ang ngipin ng iyong sanggol mula 3 hanggang 1 taon", 
+  "subtitle": "My baby is getting teeth!", 
   "description": "Lalabas ang ngipin ng iyong sanggol mula 3 hanggang 1 taon", 
   "language": "fil_PH", 
   "title": "Nagkakangipin na ang aking sanggol!", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-03-03T11:53:57.905217+00:00", 
+  "created_at": "2015-03-03T11:53:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:53:57.905406+00:00", 
+  "modified_at": "2015-03-17T12:04:35.368289+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "nagkakangipin-na-ang-aking-sanggol", 
   "uuid": "8825c33f312f4ab0ae40d47859444345"
