@@ -1,17 +1,17 @@
 {
-  "subtitle": "Maaaring makaapekto ang pagbubuntis sa iyong balat", 
+  "subtitle": "Why is my skin changing?", 
   "description": "Maaaring makaapekto ang pagbubuntis sa iyong balat", 
   "language": "fil_PH", 
   "title": "Bakit nagbabago ang balat ko?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T09:54:32.445778+00:00", 
+  "created_at": "2015-03-03T09:54:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T09:54:32.445984+00:00", 
+  "modified_at": "2015-03-17T12:16:54.057749+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 82, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "bakit-nagbabago-ang-balat-ko", 
   "uuid": "adaa7d9b3fe7411399742808d6d73f96"
