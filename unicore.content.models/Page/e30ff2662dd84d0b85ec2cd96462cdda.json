@@ -1,17 +1,17 @@
 {
-  "subtitle": "Bantayang maigi upang masigurong ligtas ang iyong sanggol", 
+  "subtitle": "Look out for signs of TB", 
   "description": "Bantayang maigi upang masigurong ligtas ang iyong sanggol", 
   "language": "fil_PH", 
   "title": "Maging alerto sa mga sintomas ng TB", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T10:17:36.691987+00:00", 
+  "created_at": "2015-03-03T10:17:36+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:17:36.692379+00:00", 
+  "modified_at": "2015-03-17T12:14:03.482099+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 71, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "maging-alerto-sa-mga-sintomas-ng-tb", 
   "uuid": "e30ff2662dd84d0b85ec2cd96462cdda"
