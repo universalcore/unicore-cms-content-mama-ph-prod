@@ -1,17 +1,17 @@
 {
-  "subtitle": "Damihan ang pagkain ng prutas at gulay", 
+  "subtitle": "I am constipated, help!", 
   "description": "Damihan ang pagkain ng prutas at gulay", 
   "language": "fil_PH", 
   "title": "Matigas ang aking dumi o hirap akong dumumi, anong gagawin ko?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T09:41:35.847946+00:00", 
+  "created_at": "2015-03-03T09:41:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T09:41:35.848131+00:00", 
+  "modified_at": "2015-03-17T12:18:30.643968+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 88, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "matigas-ang-aking-dumi-o-hirap-akong-dumumi-anong-gagawin-ko", 
   "uuid": "b6573eb66deb4dc8a2bdbd6f8ad92d88"
