@@ -1,17 +1,17 @@
 {
-  "subtitle": "Masama ang usok para sa iyo at sa iyong sanggol", 
+  "subtitle": "Is your house smoky? ", 
   "description": "Masama ang usok para sa iyo at sa iyong sanggol", 
   "language": "fil_PH", 
   "title": "Mausok ba ang iyong bahay?", 
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
-  "created_at": "2015-03-03T10:27:23.629972+00:00", 
+  "created_at": "2015-03-03T10:27:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:27:23.630165+00:00", 
+  "modified_at": "2015-03-17T12:12:47.261930+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 66, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mausok-ba-ang-iyong-bahay", 
   "uuid": "ec9bc8fdaf204561b691a0f3f95a2b46"
