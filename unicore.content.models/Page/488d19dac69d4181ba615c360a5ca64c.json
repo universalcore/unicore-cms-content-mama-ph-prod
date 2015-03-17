@@ -1,17 +1,17 @@
 {
-  "subtitle": "Magtungo agad sa center o ospital", 
+  "subtitle": "Heavy bleeding? ", 
   "description": "Magtungo agad sa center o ospital", 
   "language": "fil_PH", 
   "title": "Labis ba ang iyong pagdurugo?", 
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
-  "created_at": "2015-03-03T11:23:11.573213+00:00", 
+  "created_at": "2015-03-03T11:23:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:23:11.573400+00:00", 
+  "modified_at": "2015-03-17T12:26:20.187981+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 30, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "labis-ba-ang-iyong-pagdurugo", 
   "uuid": "488d19dac69d4181ba615c360a5ca64c"
