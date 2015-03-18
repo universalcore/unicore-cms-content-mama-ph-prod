@@ -6,15 +6,21 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:21:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:31:18.931901+00:00", 
+  "modified_at": "2015-03-18T12:58:26.710133+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bf1df8110ad84746af5f2896f7ec69c7", 
+    "488d19dac69d4181ba615c360a5ca64c", 
+    "4fbc9980ea8049b9a5e40c769cb5cf31", 
+    "c61ccffd3d4242fc92b5ae51fc3acbf9", 
+    "30d5acdd846b41b38337afc628a4885a"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMainam na magpa-check-up ka at ang iyong sanggol sa mga susunod na linggo matapos kang manganak upang siguruhing maayos ang kalusugan ninyo.\r\n\r\nSiguruhing magtungo sa center o ospital sa araw na itinakda para sa pagpapabakuna ng iyong sanggol. Ito rin ang araw kung saan susuriin ang kanyang kalusugan.\r\n\r\nDalhin agad ang iyong sanggol sa komadrona, nurse o doctor kung:\r\n\r\n - Ang kanyang tiyan ay labis na malamig o mainit\r\n - Naninilaw ang kanyang mata, kamay, at paa sa unang araw ng kanyang buhay\r\n - Ayaw niyang sumuso o hindi niya kayang sumuso ng maayos\r\n - Hindi siya tumitigil sa pag-iyak o kakaiba ang kanyang pag-iyak\r\n - Nangingisay siya, matamlay, o hindi gaanong gumagalaw o di kaya\u2019y nangingitim ang kanyang balat at mga kuko\r\n - Nahihirapan siyang huminga, o maingay o mabilis ang paghinga\r\n - Nagsusuka siya matapos sumuso, o namamaga ang tiyan\r\n - Ang sugat sa kanyang pusod ay namumula at may mabahong amoy\r\n\r\nIto ay mga palatandaan na may karamdaman ang iyong sanggol at kailangan siyang ipagamot agad.\r\n\r\nTandaang parehas lamang ang pag-aalagang kailangan ng babae at lalaking sanggol.\r\n", 
   "source": "7140f034210348e99a63d7a6b1d61a91", 
