@@ -6,15 +6,20 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:13:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:23:16.362245+00:00", 
+  "modified_at": "2015-03-18T12:54:24.364228+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c61ccffd3d4242fc92b5ae51fc3acbf9", 
+    "30d5acdd846b41b38337afc628a4885a", 
+    "a9b9b1cb70f7423a8c3da20f147457a5", 
+    "5c77bb85c1e54500a5ae69aa0b7145a4"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nAng iyong mga suso ay likas na bukal ng pagkain ng iyong anak.\r\n\r\nAng gatas mula sa iyo ang tangi niyang kailangang pagkain sa loob ng unang 6 na buwan ng kanyang buhay. Hindi niya kailangan ng ibang uri ng pagkain bukod dito sa panahong ito. Hindi rin niya kailangan ng ibang uri ng gatas o tubig.\r\n\r\nAng iyong gatas ay nagbabago habang siya ay lumalaki.\r\n\r\nPagkapanganak mo, ang unang mga patak ng gatas na lalabas sa iyong mga suso ay malapot at mala-dilaw ang kulay. Puno ito ng sustansyang kailangan niya upang lumakas at lumusog.\r\n\r\nSa kalaunan, lalabnaw ng bahagya at puputi ang iyong gatas. Mapapawi nito ang kanyang uhaw kaya naman hindi mo siya kailangang painumin ng tubig kahit na mainit ang panahon. Kusang nagbabago ang iyong gatas at umaayon sa pangangailangan ng iyong sanggol.\r\n\r\nKung siya ay nagugutom, kusang gagawa ng gatas ang iyong katawan. Sapat na ito sa kanyang pangangailangan hanggang sa ika-6 na buwan niya.\r\n\r\nAng gatas na mula sa iyo ay nakatutulong sa kanya upang labanan ang mga sakit at pinoprotektahan siya nito mula sa mga mikrobyo sa kanyang tiyan, baga, bato, balat, at tenga. Ang mga sanggol na sumuso mula sa kanilang ina ay hindi kasing dalas magkasakit kung ikukumpara sa mga sanggol na hindi nakasuso ng gatas ng kanilang ina.\r\n\r\nKung kailangan mong bumalik sa trabaho at iwan ang iyong sanggol sa bahay, maaari kang mag-ipon ng gatas sa pinakuluan at malinis na lalagyan upang mapainom ito sa iyong sanggol ng nag-aalaga sa kaniya. Turuan ang tagapag-alaga ng iyong sanggol na ipainom ang gatas gamit ang maliit na baso. Siguruhing malinis at ligtas ito sa pamamagitan ng paghugas rito gamit ang kumukulong tubig. Paglagpas ng 6 na buwan, kailangan na ng iyong sanggol ng ibang mga pagkain. Subalit kailangan pa rin niya ng iyong gatas habang nagsasanay siyang kumain ng ibang pagkain at hanggang siya ay maging 2 taong gulang.\r\n", 
   "source": "95f59f2139cd4c1fa7274997ae6bd272", 
