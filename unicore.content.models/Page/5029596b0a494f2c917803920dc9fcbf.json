@@ -6,15 +6,18 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:28:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:47:07.393917+00:00", 
+  "modified_at": "2015-03-18T11:38:07.293864+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0f972c8dcabc49bca0fd018f77336394", 
+    "b83ce814c5bc411aa215f8cf9344733b"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMahalagang uminom at gumamit ng malinis at ligtas na tubig habang ikaw ay nagdadalang-tao. Maraming magandang maidudulot ang tubig sa iyong katawan kaya mahalagang panatilihin itong malinis at ligtas para sa iyo at sa iyong sanggol.\r\n\r\nMay mga pagkakataong bagamat mukhang malinis ang tubig ay mayroon itong mga germs na nagiging sanhi ng sakit. Iwasang gumamit ng maruming tubig sa pamamagitan ng paghahanda ng malinis at ligtas na tubig araw-araw.\r\n\r\nKung walang malinis at ligtas na tubig sa iyong lugar, mayroon kang maaaring gawin upang gawin itong malinis at ligtas. Salain sa malinis na tela ang tubig at pakuluin. Ang pagpapakulo ng tubig ay pumapatay sa mga germs at mikrobyong makasasama sa iyo. Maaari mo ng inumin ang lumamig na pinakulong tubig. \r\n\r\nIsalin ito sa malinis na lalagyang may takip upang hindi puntahan ng lamok at iba pang insekto o malaglagan ng dumi.\r\n\r\nKung hindi ka maaaring magpakulo ng tubig, kumonsulta sa komadrona, nurse, o doktor kung ano pa ang ibang maaaring gawin upang maging malinis at ligtas ang tubig.\r\n\r\nMaaari ka ring bumili ng tubig na nasa bote o bottled water. Bago bilhin, siguruhing buo ang selyo ng takip. Kapag hindi na ito selyado, nabuksan na ito at maaaring hindi na ligtas para sa iyo at hindi mo na ito dapat inumin o gamitin. \r\n", 
   "source": "c50e7f5581a94bd39bcd4d0477e27761", 
