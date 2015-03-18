@@ -6,15 +6,19 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:50:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T10:16:30.175806+00:00", 
+  "modified_at": "2015-03-18T10:16:37.366591+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "71a8930854ce474da21d029003b86864", 
+    "bbcb7d5ceec64a2bb1ddd47086fedbc8"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMaaaring makaranas ka ng paghilab at paninigas ng tiyan kahit hindi pa nalalapit ang iyong panganganak. Naghahanda ang iyong katawan sa iyong pagsilang. Sa katunayan, nagkakaroon ka na nito kahit may dalawang buwan ka pa lamang na nagdadalang-tao.\r\n\r\nHabang lumalaki ang iyong sinapupunan, mas lalo mong napapansin ang paninigas ng iyong tiyan paminsan-minsan. Maaaring tumagal ng kalahating minuto ang paninigas na ito.\r\n\r\nKapag naranasan mo ito, ipatong ang kamay sa parte ng tiyan na naninigas. Kapag natapos na ang paghilab ay kusang lalambot ang parteng iyon ng iyong tiyan.\r\n\r\nSa mga huling buwan ng iyong pagbubuntis, maaaring makaranas ng matinding paninigas ng tiyan at maaaring maisip mong malapit ka ng manganak. Paano mo malalaman kung malapit ka na ngang manganak?\r\n\r\n**Gaano katagal ang bawat paghilab o paninigas ng tiyan?** Obserbahan kung tatagal ng mahigit sa isang oras ang paghilab o paninigas. Kung hindi pa panahon, titigil itong kusa kapag ikaw ay nagkikilos. Subukang maglakad o kumilos at pakiramdaman kung ito ay titigil ng kusa.\r\n\r\n**Tumitindi ba ang paninigas o paghilab?** Kung oras na ng iyong pagsilang, patagal ng patagal at patindi ng patindi ang paghilab o paninigas na iyong mararamdaman. Kung hindi mo ito nararanasan, maaaring hindi pa tamang panahon ng panganganak.\r\n\r\n**Dumadalas ba ang paghilab o paninigas?** Kung ikaw ay nagla-labor, padalas ng padalas ang paghilab at paninigas habang nalalapit na ang oras ng iyong pagsilang. Maaaring may pagitan na ang bawat paghilab ng dalawampung minuto, matapos ang mga sumusunod ay labinlimang minuto na lamang ang pagitan, at sumunod ay sampung minuto, at limang minuto. Kung hindi pa panahon ng iyong panganganak, hindi nag-iiba ang dalas ng paghilab o paninigas ng tiyan na iyong mararamdaman.\r\n", 
   "source": "d24000f201274c198d73abdd30d2f3a9", 
