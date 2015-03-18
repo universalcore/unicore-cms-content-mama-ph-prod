@@ -6,15 +6,18 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:48:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T10:15:26.878809+00:00", 
+  "modified_at": "2015-03-18T12:12:50.834776+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a7a0db3a51424f209d391df45374707b", 
+    "bbcb7d5ceec64a2bb1ddd47086fedbc8"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMay mga pagkakataong kinakailangang operahan ang nagdadalang-tao upang isilang ang sanggol. Ang operasyong ito ay tinatawag na caesarian at ito ay maaari lamang gawin sa ospital.\r\n\r\nMaaaring kinakailangan kang operahan kung ang iyong pinagbubuntis ay higit sa isang sanggol (kambal, triplets, atbp.), o kung hindi maayos ang posisyon ng iyong sanggol sa loob ng sinapupunan.\r\n\r\nKung ikaw ay nagla-labor na ng mahigit sa labindalawang oras o kalahating araw, maaaring kailangan mo ng operahan upang mailabas ang sanggol. Kung ikaw ay nasa bahay, kinakailangan mo ng magtungo sa ospital o klinikang paanakan upang mabatid kung may problema.\r\n\r\nKung may pagdurugo habang ikaw ay nagla-labor, maaaring kinakailangan mong maoperahan agad.\r\n\r\nKung dati ay inoperahan ka na upang manganak, maaaring operahan kang muli para magsilang. Sa ganitong sitwasyon, siguruhing iplano ang panganganak sa ospital. \r\n\r\nMaaaring patulugin ka habang ikaw ay inooperahan, o lagyan ka ng pampamanhid sa likod upang wala kang maramdamang sakit. Hihiwain ng doktor ang iyong tiyan upang ilabas ang sanggol. Matapos isilang ang iyong sanggol ay tatahiin ang iyong sugat. Maaari mong makita ang iyong sanggol oras na siya ay isilang o sa iyong paggising kung pinatulog ka ng doktor habang inooperahan.\r\n\r\nMatapos mong operahan, kinakailangan mong pagalingin ang iyong sugat kung kaya't kailangan ng ibayong ingat. Magkakaroon din ng pagdurugo mula sa iyong ari, gaya ng sa normal na panganganak.\r\n", 
   "source": "00bf6af9a08b419793555b2b3c85ed4a", 
