@@ -6,15 +6,22 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:42:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:57:25.618881+00:00", 
+  "modified_at": "2015-03-18T12:11:08.259163+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "24d7a3b913314557aca7130830978a19", 
+    "865fca2ff0bd49b189c99087d2b8a226", 
+    "b9e692964695466597aa28e275cc0778", 
+    "62cd320115e04fc0a59631724ee50629", 
+    "0f972c8dcabc49bca0fd018f77336394", 
+    "bcd82bfbae30458eac29ba2c89f1e8ed"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nKailangan mo at ng iyong sanggol ng calcium. Siguruhing uminom at kumain ka araw-araw ng mga pagkaing sagana rito. Makatutulong ito sa iyong kalusugan at para rin ito sa maayos na paglaki ng buto ng iyong sanggol.\r\n\r\nNakatutulong ang calcium upang lumaking maayos ang buto at ngipin. Kailangan mo ito dahil lumalaki pa din ang iyong mga buto. Nakatutulong din ang calcium upang makaiwas sa high blood.\r\n\r\nAng calcium sa iyong katawan ang ginagamit ng iyong sanggol upang mabuo at lumaki ang kanyang mga buto at ngipin. Nakatutulong din ito upang maging maayos ang tibok ng kanyang puso. Kung hindi sapat ang calcium sa iyong katawan, hindi nito gaanong maaapektuhan ang sanggol subalit hindi ito makabubuti para sa iyo. Habang ikaw ay nagdadalang-tao, sisiguruhin ng iyong katawan na may sapat na calcium ang iyong sanggol at kung anuman ang matira, ito ang mapupunta sa iyo.\r\n\r\nMaaari kang makakuha ng calcium mula sa:\r\n\r\n - Gatas na mula sa taho \r\n - Gata ng niyog\r\n - Tokwa\r\n - Gulay na may berdeng dahon\r\n - Isda, gaya ng sardinas\r\n\r\nUpang matulungan ang iyong katawan na makuha ng husto ang calcium sa iyong mga kinakain, siguruhin mo ring may sapat kang vitamin D sa katawan. Gumagawa ng katawan ng vitamin D sa tulong ng sikat ng araw.\r\n", 
   "source": "469f50fe45204d219e3b38d41d26ae69", 
