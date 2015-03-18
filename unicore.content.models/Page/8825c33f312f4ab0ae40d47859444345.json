@@ -6,15 +6,19 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:53:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:51:18.562500+00:00", 
+  "modified_at": "2015-03-18T13:11:28.261014+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9da8bb44b6f6412792c6a0c39681c2d5", 
+    "bf1f148f8999456599cdcf49def83b31", 
+    "eb3eeb50eceb4e02925930cc0e502fd2"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nKaraniwang lumalabas ang ngipin ng mga sanggol sa edad na 6 na buwan. Subalit may mga sanggol na maagang nagkakangipin, mula 3 hanggang 1 taon. Unang lumalabas ang ngipin sa harap, sa babang gilagid.\r\n\r\nKung palabas na ang ngipin ng iyong sanggol, mapapansin mo ang mga sumusunod:\r\n\r\n - namumula at namamaga ang kanyang mga gilagid at namumula rin ang kanyang mukha o pisngi\r\n - siya ay naglalaway\r\n - hahawakan niya ng madalas ang bahagi ng gilagid kung saan lalabas ang ngipin\r\n - magigising siya sa gabi dahil sa sakit\r\n\r\nSa edad na 2 taon ay karaniwang nakalabas na ang 20 ngipin ng iyong sanggol.\r\n\r\nMakabubuting sepilyuhan ang ngipin ng iyong sanggol kapag nakalabas na ito. Gumamit ng malambot na sepilyo at kakaunting toothpaste. Linisin ang kanyang mga ngipin pati ang gilagid.\r\n\r\nHabang lumalabas ang kanyang mga ngipin, maaaring mahirapang kumain ang iyong anak. Kapag siya ay sumisipsip, maaari siyang makaramdam ng sakit kung kaya't maaaring hindi niya gustuhing sumuso.\r\n\r\nDahil sa sakit na nararamdaman, maaaring maging iritable ang iyong anak. Maging matiyaga at pagpasensyahan siya sa mga panahong ito.\r\n", 
   "source": "88b87b9e81bb456297be804f786b1ed3", 
