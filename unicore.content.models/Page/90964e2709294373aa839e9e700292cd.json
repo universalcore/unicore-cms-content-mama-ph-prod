@@ -6,15 +6,20 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T11:01:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T10:18:45.018947+00:00", 
+  "modified_at": "2015-03-18T12:13:50.492496+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "cfc33984ae7d46639546a65ec2b7c1d2", 
+    "52e79d27b18a4123aa5284c29a03c193", 
+    "71a8930854ce474da21d029003b86864"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nPinaghahandaan ng iyong katawan ang pagluwal sa iyong sanggol habang ikaw ay nagdadalang-tao. Kung oras na upang ikaw ay magsilang, kusa itong magbubukas upang makalabas ang iyong anak mula sa iyong sinapupunan.\r\n\r\nUna, lalambot ang iyong cervix, ang butas sa iyong sinapupunan. Kung hindi mo pa oras manganak, ang iyong cervix ay singtigas ng iyong ilong subalit nagiging singlambot ng iyong mga labi kung ikaw ay nagla-labor na.\r\n\r\nPagkalambot ng iyong cervix, bubuka ito bilang paghahanda sa paglabas ng iyong sanggol. Maaaring hindi mo ito mapansin sa una, subalit mararamdaman mo ang paghilab ng tila ikaw ay magkakaregla.\r\n\r\nHabang tumatagal, titindi ang sakit ng paghilab at dadalas ito. Magiging regular ang pagitan ng paghilab. \r\n\r\nIba-iba ang karanasan ng bawat nagbubuntis. Subalit kadalasan, mahigit limang minuto ang pagitan ng bawat paghilab, at maaaring tumagal ito ng wala pang isang minuto. Hindi ito gaanong masakit.\r\n\r\nPara sa ilang kababaihan, tumitigil ang kanilang pagla-labor sa puntong ito. Para naman sa karamihan, nagtutuloy-tuloy na ito hanggang sa panganganak. \r\n", 
   "source": "c4a312f312d14bf1b87bcbb48e648efc", 
