@@ -6,15 +6,17 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:50:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:49:14.179303+00:00", 
+  "modified_at": "2015-03-18T13:09:48.780240+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9e86f917dbac4bcabad1563e7cf8af6e"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nIto ang 4 na paraan upang mapanatiling ligtas ang iyong sanggol sa loob ng inyong tahanan:\r\n\r\n - Siguruhing walang mga nakakalat na bagay na maaaring mapulot ng iyong anak. Ligpitin ang mga maliliit na bagay na maaari niyang isubo, gaya ng mga barya, na maaaring bumara sa kanyang lalamunan. Itago ang mga matatalas na bagay katulad ng mga kutsilyo, gunting, at ballpen, o anumang bagay na hindi ligtas kainin o inumin.\r\n\r\n - Siguruhing walang bagay na maaaring mahulog sa iyong sanggol. Iangat ang mga kable ng kuryente o tali upang hindi niya ito maabot.\r\n\r\n - Ilayo ang iyong anak sa apoy o tubig. Sa kagustuhan ng iyong sanggol na usisain ang mga bagay sa kanyang paligid, maaari siyang humawak sa apoy at mapaso. Siguruhing hindi niya maaabot ang anumang mainit na bagay habang ikaw ay nagluluto. Kung maaari, maglagay ng harang sa mga lugar na hindi niya dapat puntahan. Takpan ang mga malalaking drum o timba ng tubig upang siguruhing hindi siya mahuhulog rito.\r\n\r\n - Tandaan na sa oras na matutong gumapang o maglakad ng iyong sanggol ay maaari na rin siyang umakyat sa mga matataas na lugar gaya ng hagdan, bintana, upuan, mesa, o aparador. Siguraduhing hindi niya maaabot ang anumang kable o saksakan. Bantayan siyang mabuti upang hindi siya mahulog kung siya ay umaakyat.\r\n", 
   "source": "0f8a9422f4e148bdb5fc37c94dd8a43f", 
