@@ -6,15 +6,21 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T11:06:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T10:22:37.962328+00:00", 
+  "modified_at": "2015-03-18T12:15:20.117674+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "e86b2bf832254c6dbda0a21678b1956b", 
+    "5c77bb85c1e54500a5ae69aa0b7145a4", 
+    "9b0c14a5f2e047d39ed0b5e28c2f4333", 
+    "6bd296ec1272420a80f7df9ddbf3b785"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nung maranasan mo ang mga sumusunod, agad na sumangguni sa iyong komdarona, nurse, o doktor o magtungo sa ospital o paanakan sa lalong madaling panahon.\r\n\r\nKung ikaw ay:\r\n\r\n - Pinutukan na ng panubigan subalit hindi pa rin nagla-labor matapos ang 6 na oras.\r\n - Nakararanas ng paghilab o paninigas ng tiyan ng mahigit sa 12 oras subalit hindi mo pa rin nailuluwal ang iyong sanggol.\r\n - Mayroong malakas na pagdurugo at nakapupuno ka ng 2 hanggang 3 napkin sa loob ng 15 minuto.\r\n - Hindi pa rin nilalabasan ng inunan matapos ang 1 oras mula ng iluwal mo ang iyong sanggol.\r\n\r\nKung ang iyong sanggol ay:\r\n\r\n - Hindi umiyak o nahihirapang huminga nang siya ay nakalabas na sa iyo.\r\n - Hindi makasuso ng maayos mula sa iyo.\r\n - May lagnat, o malamig ang balat.\r\n - Labis na maliit (kulang sa isa't kalahating kilo o isinilang ng wala pang 32 linggo).\r\n - Nakararanas ng pangingisay.\r\n", 
   "source": "9af3e1f847524444bf03dcd87fee4778", 
