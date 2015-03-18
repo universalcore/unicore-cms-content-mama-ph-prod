@@ -6,15 +6,22 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:43:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:59:35.533320+00:00", 
+  "modified_at": "2015-03-18T09:59:37.937002+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "24d7a3b913314557aca7130830978a19", 
+    "1c4c38965df345d393fed791ecc2528d", 
+    "b9e692964695466597aa28e275cc0778", 
+    "62cd320115e04fc0a59631724ee50629", 
+    "0f972c8dcabc49bca0fd018f77336394"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMahalaga ang bitamina para sa iyong kalusugan, lalo na habang ikaw ay nagdadalang-tao. Kailangan ito ng iyong sanggol upang lumaking malusog, at kailangan rin ito ng iyong katawan upang maging handa sa pagsilang sa iyong sanggol.\r\n\r\nKumain ng iba\u2019t ibang sariwang pagkain na may iba\u2019t ibang kulay \u2013 ang mga ito ay sagana sa bitamina:\r\n\r\n - Itlog, mga pagkaing kulay kahel gaya ng manga, papaya, kamote, at carrots: sagana ang mga ito sa vitamin A na nakatutulong sa pagbuo at paglaki ng iyong sanggol.\r\n\r\n - Saging, patatas, manok, tokwa, at mga gulay na berde: ang mga ito ay may vitamin B na kailangan ng iyong katawan upang palakasin ito at gawing enerhiya ang iyong mga kinakain. Nakatutulong ito sa iyong dugo at utak.\r\n\r\n - Mga maaasim na prutas gaya ng suha, at dalandan, gulay na tulad ng patatas, kamatis: sagana ito sa vitamin C, na nakatutulong sa iyong balat, buto, at ngipin.\r\n\r\n - Isdang gaya ng sardinas, gatas na mula sa taho o bigas, at itlog: mayroon ang mga ito ng vitamin D na nakatutulong sa pagbuo ng buto at ngipin at upang makaiwas sa sakit. Kusang ginagawa ng katawan ang vitamin D sa tulong ng sikat ng araw. \r\n", 
   "source": "2765db75c7164113ba246382f19a678a", 
