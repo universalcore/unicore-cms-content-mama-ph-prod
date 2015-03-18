@@ -6,15 +6,17 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:28:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:48:46.004655+00:00", 
+  "modified_at": "2015-03-18T11:38:20.473150+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1e5bf09fbb284fd988f8acd04a40a005"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMakabubuting itigil mo na ang paninigarilyo habang ikaw ay nagdadalang-tao. Lubhang masama ito sa iyong kalusugan at lalo na sa iyong sanggol. Sa halip na bumili ng sigarilyo, maaari kang bumili ng mga pangangailangan mo habang ikaw ay nagdadalang-tao.\r\n\r\nMaaaring maging masasakitin at mahina ang pangangatawan ng sanggol kung ikaw ay nanigarilyo habang ipinagbubuntis mo ang iyong sanggol at habang ikaw ay nagpapasuso.\r\n\r\nHumingi ng tulong sa iyong pamilya upang matigil ang iyong paninigarilyo. Hindi maganda sa kalusugan mo at ng iyong anak ang paglanghap ng usok ng sigarilyo. Umiwas din sa mga naninigarilyo. Ipaliwanag ito sa iyong pamilya at pakiusapan silang sa labas na lamang ng bahay manigarilyo.\r\n\r\nKung ikaw ay naninigarilyo, bawasan ito o tuluyan ng tigilan. Bagamat hindi ito madaling gawin, maganda naman ang epekto nito sa kalusugan mo at ng iyong anak. Kung hindi mo kayang tumigil ng biglaan, dahan-dahang bawasan ang paninigarilyo araw-araw hanggang sa magawa mong tumigil. Kung labis kang nahihirapang tumigil, sumangguni sa komadrona, nurse, o doktor.\r\n", 
   "source": "685e924952ea4cfe8f511b08d3e0769c", 
