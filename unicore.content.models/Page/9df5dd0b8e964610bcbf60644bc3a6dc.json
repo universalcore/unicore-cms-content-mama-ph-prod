@@ -6,15 +6,18 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:35:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:40:57.096202+00:00", 
+  "modified_at": "2015-03-18T13:03:26.567711+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bf1f148f8999456599cdcf49def83b31", 
+    "7a48a1f7125c4ae3b416c0bda241fc9f"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nKung may sakit ang iyong sanggol, kailangan niyang kumain upang siya ay gumaling.\r\n\r\nKaraniwan sa mga sanggol ang magkasakit paminsan-minsan. Sadyang nakababahalang makita siyang may sakit kaya naman nararapat na alagaan mo siya ng mabuti upang bumilis ang kanyang paggaling, kasama na rito ang patuloy na pagpapakain sa kanya.\r\n\r\n**Kung ang iyong sanggol ay wala pang 6 na buwan**, ang gatas mula sa iyo ang makatutulong sa kanya upang gumaling. Puno ng sustansiya ang iyong gatas. Ang sustansyang ito ang kanyang kinakailangan upang siya ay lumakas. Kung ang iyong sanggol ay nagtatae, mainam ang gatas mula sa iyo para sa kanya. Maibabalik nito ang mga sustansya sa katawan na kanyang inilalabas habang siya ay nagtatae.\r\n\r\n**Kung ang iyong sanggol ay mahigit na 6 na buwan**, patuloy siyang pakainin ng pinalambot at dinurog na mga gulay at prutas. Kahit na siya ay nagtatae, kailangan pa rin niyang kumain. Ang masustansyang pagkain ay makatutulong sa kanya upang siya ay gumaling.\r\n\r\nKung ayaw niyang kumain, dalasan ang pagbibigay sa kanya ng kaunting pagkain. Kailangan niya ito upang bumalik sa dati ang kanyang lakas.\r\n\r\nKung manatili siyang may sakit matapos ang 1 araw, o mahigit 1 araw na siyang nagtatae, dalhin siya sa komadrona, nurse, o doktor.\r\n\r\nKapag bumuti na ang kanyang pakiramdam, subukan siyang bigyan ng mas maraming pagkain -- dagdagan ng 2 beses ang kanyang pagkain sa loob ng isang araw 2 linggo matapos niyang magkasakit. Makatutulong ito upang maibalik ang dating lusog at lakas ng kanyang katawan.\r\n", 
   "source": "88fcaf03263840b5a5f23dc8375a6957", 
