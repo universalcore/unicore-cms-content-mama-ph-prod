@@ -6,15 +6,22 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:45:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T10:06:11.166514+00:00", 
+  "modified_at": "2015-03-18T12:11:49.818482+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bba4769db14f4fecb77c741bee66acb5", 
+    "865fca2ff0bd49b189c99087d2b8a226", 
+    "1c4c38965df345d393fed791ecc2528d", 
+    "b9e692964695466597aa28e275cc0778", 
+    "62cd320115e04fc0a59631724ee50629", 
+    "0f972c8dcabc49bca0fd018f77336394"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nNakatutulong ang minerals upang maging malusog ang iyong sanggol. Kumain ng mga pagkain mula sa apat na uri ng pagkain upang masigurong makuha ang lahat na minerals na iyong kailangan.\r\n\r\n - Prutas at gulay. Kumain ng iba't ibang uri ng prutas at gulay dahil masustansya ang mga ito.\r\n - Ang mga pagkaing gaya ng kanin at patatas ay nakapagbibigay ng enerhiya.\r\n - Mga pagkaing mayaman sa protina gaya ng tokwa, itlog, isda, manok, at karne. Sagana rin ang mga ito sa iron na nakapagpapalakas sa iyong katawan.\r\n - Ang mga pagkaing sagana sa calcium gaya ng gatas, taho, at gata.\r\n\r\nGumamit ng iodized salt sa pagluluto dahil mayroon itong iodine na mainam sa katawan. Kinakailanangan mo ng iodine dahil nakatutulong ito upang lumaki at lumusog ang utak ng iyong sanggol. Nakalagay sa pakete ng asin kung ito ay may iodine.\r\n\r\nSa pamamagitan ng pagkain ng iba't ibang uri ng pagkain, mapapanatiling malusog at malakas ang iyong katawan pati na ng iyong sanggol.\r\n", 
   "source": "64ebd85fbaae46d9a97c770ee5232e53", 
