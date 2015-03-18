@@ -6,15 +6,18 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:07:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:41:44.015819+00:00", 
+  "modified_at": "2015-03-18T11:33:58.560183+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1460e3648f4743b9a3a33ff206d0cb38", 
+    "4d99a3b9bf6c42008820095b655f8545"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nMahalaga ang panatilihing malinis ang pangangatawan, lalo na kung ikaw ay nagdadalang-tao. Ang kalinisan ang makatutulong upang labanan ang germs na nagdadala ng sakit at impeksyon.\r\n\r\nIto ang ilan sa mga paraan upang mapanatili ang kalinisan:\r\n\r\n - Maghugas ng kamay gamit ang malinis na tubig. Ito ang pinakamahusay na paraan upang makaiwas sa germs na nagdadala ng diarrhea. Maghugas ng kamay pagdating sa bahay, bago magluto at kumain, pagkagaling sa banyo at pagkatapos humawak ng hayop. Siguruhing malinis ang buong kamay, kasama ang pulso, mga daliri at kuko. Banlawang maigi upang siguruhing walang maiiwang sabon.\r\n - Maghugas ng maigi sa tuwing gagamit ng banyo. Hugasan ang ari mula harap papunta sa likod. Maghugas ng kamay pagkatapos nito.\r\n - Magsuot ng panty na gawa sa cotton, upang makahinga ang balat. Uminom ng sapat na malinis na tubig. Makatutulong ito upang makaiwas ang impeksyon sa ihi.\r\n - Maligo ng buong katawan araw-araw. Sa ganitong paraan mapapanatili ang kalinisan at makaiiwas sa impeksyon.\r\n", 
   "source": "9c65f31035034abe8ceb171abbc3ab64", 
