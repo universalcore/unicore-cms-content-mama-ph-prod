@@ -6,15 +6,20 @@
   "primary_category": "aecde47d345f490ba62494bda5ce2930", 
   "created_at": "2015-03-03T11:38:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T12:43:07.253001+00:00", 
+  "modified_at": "2015-03-18T13:05:04.357795+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9e86f917dbac4bcabad1563e7cf8af6e", 
+    "e70d4fd1fc334d5cb988f0505e8550fb", 
+    "5029596b0a494f2c917803920dc9fcbf", 
+    "1460e3648f4743b9a3a33ff206d0cb38"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nAng mga bulate ay maaaring makuha kung marumi ang inyong paligid, lalo na kung saan naglalagi o naglalaro ang iyong sanggol. Maaaring magkasakit ang iyong anak ng dahil sa bulate.\r\n\r\nLinisin ang sahig gamit ang tubig at sabon bago hayaang humiga, gumapang, o maglaro ang iyong sanggol rito. Mapoprotektahan nito ang iyong sanggol. Kung hindi maaaring linisin ng ganitong paraan ang lapag, maglatag ng malaki at malinis na banig o kumot.\r\n\r\nHabang lumalaki ang iyong sanggol, nanaisin ng iyong sanggol na maglaro sa labas ng inyong tahanan. Mag-ingat na hindi siya makakuha ng bulate mula sa paligid. Ang bulate ay maaaring makuha mula sa lupa at maaaring maging sanhi ng pananakit ng tiyan, pag-ubo, at lagnat.\r\n\r\nPagsuotin siya ng tsinelas kapag siya ay naglalakad sa labas. Hugasang mabuti ang kanyang kamay gamit ang sabon at malinis na tubig. Siguruhing malinis ang kanyang mga kuko. Sa ganitong paraan, maiiwasang maisubo niya ang mga itlog ng bulate na maaring nagtatago sa kanyang mga kuko.\r\n\r\nMaaaring hindi mo agad mapansing may bulate ang iyong anak. Makatutulong ang pagpupurga sa kanya upang mailabas niya ang bulate at mapatay ang mga ito. Maaari mo siyang purgahin kahit na wala siyang bulate. Sumangguni sa komadrona, nurse, o doktor kung kinakailangan mong purgahin ang iyong anak.\r\n", 
   "source": "042f6524dda14449811635643e85e8bc", 
