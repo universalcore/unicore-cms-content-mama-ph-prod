@@ -6,15 +6,23 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:32:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T09:48:20.688295+00:00", 
+  "modified_at": "2015-03-18T12:09:46.891581+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "24d7a3b913314557aca7130830978a19", 
+    "865fca2ff0bd49b189c99087d2b8a226", 
+    "1c4c38965df345d393fed791ecc2528d", 
+    "b9e692964695466597aa28e275cc0778", 
+    "62cd320115e04fc0a59631724ee50629", 
+    "1e78cc20410749f987a333817ebe231e", 
+    "0f972c8dcabc49bca0fd018f77336394"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nHuwag hayaang malipasan ng gutom - kumain kapag nakaramdam ng gutom. Ugaliing kumain ng mga pagkaing may iba\u2019t ibang likas na kulay upang madagdagan ang iyong timbang habang lumalaki ang sanggol sa iyong sinapupunan.\r\n\r\nKasama sa mga pagbabagong nararanasan mo sa iyong katawan ang pag-iba\u2019t iba ng iyong ganang kumain:\r\n\r\n - Sa mga unang linggo ng iyong pagdadalang-tao, maaaring mawalan ka ng ganang kumain lalo na kung ikaw ay nahihilo at nagsusuka.\r\n - Sa mga susunod na buwan, maaaring bumalik ang iyong ganang kumain at dumalas ang mga pagkakataong makaramdam ka ng gutom.\r\n - Sa mga huling buwan ng iyong pagbubuntis, maaaring higit na lumakas ang iyong ganang kumain. Ugaliin ang pagkain ng mga prutas, gulay, karne, mani, at itlog. Ipaliwanag sa iyong pamilya na mas marami kang kailangang kainin dahil ikaw ay nagdadalang-tao at sinusuportahan mo ang paglaki ng iyong sanggol. Ipaalam sa kanila ang mga uri ng pagkaing kailangan mong kainin. Dagdagan ng isang dakot na pagkain ang iyong normal na kinakain. Maaaring kailangan mo ring magmeryenda sa umaga at sa hapon.\r\n\r\nHabang ikaw ay nagdadalang-tao, maaaring may mga pagkaing kang hahanap-hanapin. May ilan namang nais kumain ng mga hindi talaga dapat kainin gaya ng lupa o iba pang bagay. Makasasama ito sa iyo at sa iyong sanggol. Maaaring sumakit ang iyong tyan o magkabulate ka kung kakain ka ng lupa.\r\n", 
   "source": "17bc4409092f495c942b9464fc0dcc08", 
