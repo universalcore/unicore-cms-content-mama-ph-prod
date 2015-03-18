@@ -6,15 +6,22 @@
   "primary_category": "a42d368e8fec4f6ebd150161854771c3", 
   "created_at": "2015-03-03T10:06:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-18T07:03:51.016397+00:00", 
+  "modified_at": "2015-03-18T11:33:41.402381+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1e78cc20410749f987a333817ebe231e", 
+    "5029596b0a494f2c917803920dc9fcbf", 
+    "ec9bc8fdaf204561b691a0f3f95a2b46", 
+    "e30ff2662dd84d0b85ec2cd96462cdda", 
+    "8398d0dfb0c84ae48afb4775897628c6", 
+    "4d99a3b9bf6c42008820095b655f8545"
+  ], 
   "id": null, 
   "content": "Nilikha ng BabyCenter\r\n\r\nHindi ka dapat magkasakit habang ikaw ay nagdadalang-tao.\r\n\r\nUgaliing maghugas ng kamay gamit ang sabon at malinis na tubig. Hikayatin ang iyong pamilyang gawin din ito. Nakatutulong ang paghuhugas ng kamay sa pag-iwas sa mga sakit na gaya ng pulmonia at diarrhea.\r\n\r\nMaghugas ng kamay:\r\n\r\n - Pagdating ng bahay\r\n - Pagkatapos mag-CR\r\n - Pag humawak ng alagang hayop o nagtrabaho kapiling ang hayop\r\n - Bago magluto\r\n - Pagkatapos humawak ng hilaw na itlog, isda, manok, baboy, o baka\r\n - Bago kumain\r\n\r\nTamang paghuhugas ng kamay:\r\n\r\n - Gumamit ng malinis na tubig at sabon\r\n - Basain ang kamay\r\n - Lagyan ng sabon ang kamay at pabulain ng husto sa pamamagitan ng pagkuskos ng maigi\r\n - Siguruhing linisin pati pagitan ng mga daliri at ilalim ng kuko\r\n - Patagalin ito ng may 15 segundo\r\n - Banlawin ng mabuti ang mga kamay gamit ang malinis na tubig at siguruhing walang maiiwang sabon\r\n - Ipahid ang mga kamay sa tuyo at malinis na bimpo o basahan\r\n\r\nMaaaring maglagay ng hugasan ng kamay malapit sa kalan o sa labas ng CR upang maging madali ang paghuhugas ng kamay.\r\n\r\nMalaking tulong ang magagawa ng paghuhugas ng kamay sa pag-iwas sa maraming sakit gaya ng diarrhea.\r\n", 
   "source": "215cf4abcbfb40c09c717696e3afad30", 
