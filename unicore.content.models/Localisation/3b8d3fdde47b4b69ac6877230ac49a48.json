@@ -1,13 +1,17 @@
 {
+  "uuid": "3b8d3fdde47b4b69ac6877230ac49a48", 
+  "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "PHI_PH", 
   "image": null, 
-  "image_host": "http://thumbor.unicore.io", 
+  "logo_text": "Payo mula sa mga eksperto", 
+  "logo_image": null, 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "uuid": "3b8d3fdde47b4b69ac6877230ac49a48"
+  "logo_description": "Payo mula sa mga eksperto", 
+  "image_host": "http://thumbor.unicore.io"
 }
